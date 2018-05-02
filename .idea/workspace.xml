@@ -2,87 +2,245 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0870bda7-dad9-4225-b115-38b326228570" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/buddhabowl.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/burger.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/pizza.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/liverank.py" />
-      <change beforePath="$PROJECT_DIR$/cloudbot/bot.py" afterPath="$PROJECT_DIR$/cloudbot/bot.py" />
-      <change beforePath="$PROJECT_DIR$/config.default.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/sandwich.json" afterPath="$PROJECT_DIR$/data/sandwich.json" />
-      <change beforePath="$PROJECT_DIR$/data/taco.json" afterPath="$PROJECT_DIR$/data/taco.json" />
-      <change beforePath="$PROJECT_DIR$/plugins/YQL_Currency.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/amazon.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/attacks.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/bing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/books.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/brainfuck.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/chatbot.py" afterPath="$PROJECT_DIR$/plugins/chatbot.py" />
-      <change beforePath="$PROJECT_DIR$/plugins/correction.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/cryptocurrency.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/cypher.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/dramatica.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/eightball.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/etymology.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/factoids.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/feeds.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/fishbans.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/foods.py" afterPath="$PROJECT_DIR$/plugins/foods.py" />
-      <change beforePath="$PROJECT_DIR$/plugins/fortune.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/geoip.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/github.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/google.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/google_translate.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/googleurlparse.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/history.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/horoscope.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/imdb.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/imgur.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/issafe.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/lastfm.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/lmgtfy.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/metacritic.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/minecraft_ping.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/minecraft_status.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/minecraft_user.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/minecraft_wiki.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/mylife.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/name_generator.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/newegg.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/piglatin.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/poll.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/python.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/quote.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/recipe.py" afterPath="$PROJECT_DIR$/plugins/recipe.py" />
-      <change beforePath="$PROJECT_DIR$/plugins/reddit.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/rottentomatoes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/scene.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/shorten.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/snopes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/soundcloud.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/speedtest.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/spellcheck.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/spotify.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/steam_store.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/steam_user.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/steamdb.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/stock.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/suggest.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/tell.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/twitch.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/twitter.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/urban.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/utility.py" afterPath="$PROJECT_DIR$/plugins/utility.py" />
-      <change beforePath="$PROJECT_DIR$/plugins/validate.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/vimeo.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/voat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/weather.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/whois.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/wikipedia.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/wolframalpha.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/wordnik.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/wyr.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/xkcd.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/plugins/youtube.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/chatbot.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Vagrantfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/__main__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/bot.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/client.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/clients/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/clients/irc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/config.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/event.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/hook.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/permissions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/plugin.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/reloader.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/colors.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/database.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/filesize.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/formatting.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/http.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/test/test_colors.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/test/test_database.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/test/test_filesize.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/test/test_formatting.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/test/test_timeformat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/test/test_tokenbucket.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/textgen.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/timeformat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/timeparse.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/tokenbucket.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/util/web.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/8ball_responses.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/GeoLite2-City.mmdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/buddhabowl.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/burger.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/flirts.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/fortunes.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/kills.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/larts.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/leet.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/dragons.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/dwarves.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/elves_female.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/elves_male.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/fantasy.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/female.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/general.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/hobbits.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/inns.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/items.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/male.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/narn.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/name_files/warrior_cats.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/password_words.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/pizza.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/rekts.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/sandwich.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/slaps.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/sundae.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/taco.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/dev/main.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/configuration.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/googlecustomsearch_id.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/googledevconsole_api.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/cse_1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/cse_2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/cse_3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/gdev_1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/gdev_2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/gdev_3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/gdev_4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/gdev_5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/gdev_6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/gdev_7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/gdev_8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/oc_1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/oc_2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/oc_3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/img/wn_1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/main_user.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/octopart_api.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/user/wordnik_api.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180417.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180418.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180419.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180421.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180423.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180424.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180425.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180426.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180427.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180430.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180501.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-cooking_20180502.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180410.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180411.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180412.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180413.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180415.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180416.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180417.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180418.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180419.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180421.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180423.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180424.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180425.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180426.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180427.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180430.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180501.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis-dev_20180502.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis_20180423.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis_20180424.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis_20180425.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis_20180426.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis_20180427.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis_20180430.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis_20180501.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_#reddit-tennis_20180502.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_blekginger_20180410.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180410.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180411.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180412.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180413.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180415.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180416.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180417.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180418.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180419.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180421.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180423.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180424.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180425.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180426.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180427.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180430.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180501.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_botbot_the_20180502.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_chanserv_20180423.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_chanserv_20180424.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_chanserv_20180425.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_chanserv_20180426.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_chanserv_20180427.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_chanserv_20180430.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_chanserv_20180501.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_chanserv_20180502.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_nickserv_20180423.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_nickserv_20180424.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_nickserv_20180425.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_nickserv_20180426.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_nickserv_20180427.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_nickserv_20180430.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_nickserv_20180501.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_nickserv_20180502.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180410.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180411.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180412.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180413.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180415.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180416.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180417.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180418.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180419.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180421.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180423.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180424.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180425.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180426.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180427.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180430.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180501.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_server_20180502.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/2018/esper_thebotbot_20180410.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/bot.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/bot.log.1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/bot.log.2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/bot.log.3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/debug.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/debug.log.1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/debug.log.2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/debug.log.3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/debug.log.4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/logs/debug.log.5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/admin_bot.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/admin_channel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/cap.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/chatbot.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/core_ctcp.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/core_misc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/core_sieve.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/core_tracker.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/flip.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/foods.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/gaming.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/help.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/ignore.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/karma.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/linux.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/liverank.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/locate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/log.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/logs/bot.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/logs/debug.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/notes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/octopart.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/pagecheck.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/password.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/ping.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/plpaste.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/profiling.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/recipe.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/regex_chans.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/remind.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/system.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/test/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/test/test_fishbans.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/time_plugin.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/tvdb.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/utility.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/travis/requirements.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/travis/test_json.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vagrant-bootstrap.sh" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,7 +251,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="chatbot.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chatbot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/chatbot.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="389">
@@ -115,11 +273,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="foods.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="foods.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plugins/foods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+            <state relative-caret-position="482">
+              <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -360,9 +518,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="474" y="152" width="1176" height="787" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27891156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27891156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -613,14 +770,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/foods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/chatbot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
@@ -628,6 +777,14 @@
           <folding>
             <element signature="e#20#33#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/foods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
