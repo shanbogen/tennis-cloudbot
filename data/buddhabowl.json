@@ -1,0 +1,103 @@
+{
+  "templates": [
+    "{gives} {user} {flavor} bowl {fill} {protein} over {grain} along with {vegetable}, topped with {sauce}!",
+    "{gives} {user} {flavor} grain-free bowl {fill} {protein} with {vegetable}, {vegetable}, {vegetable}, and {sauce}!",
+    "{gives} {user} {flavor} bowl {fill} {protein} on a bed of {grain} with {vegetable}, drizzled with {sauce}!"
+  ],
+  "parts": {
+    "gives": [
+      "hands",
+      "gives",
+      "makes",
+      "passes"
+    ],
+    "fill": [
+      "teeming with",
+      "full to the brim with",
+      "chock full of",
+      "featuring",
+      "starring",
+      "highlighting the delicate flavor of",
+      "rounded like Buddha's belly full of"
+    ],
+    "flavor": [
+      "a tasty",
+      "a delicious",
+      "an awesome",
+      "an excellent",
+      "a beautifully-made",
+      "an exquisite",
+      "a nourishing",
+      "an edible",
+      "a Buddha-licious",
+      "a plant-powered",
+      "an over-garnished",
+      "a blurry"
+    ],
+    "protein": [
+      "hummus",
+      "baba ganoush",
+      "crispy baked tofu cubes",
+      "pan-roasted chickpeas",
+      "lentil pate",
+      "heart of palm 'tuna' salad",
+      "spiced jackfruit",
+      "crispy breaded cauliflower",
+      "carrot lox",
+      "spicy black beans",
+      "braised potato",
+      "crisp-tender broccoli bites",
+      "homemade veggie burger crumbles",
+      "sunflower seeds",
+      "flame-grilled pepitas",
+      "mesquite almonds",
+      "almond feta"
+    ],
+    "grain": [
+      "cauliflower rice",
+      "basmati rice",
+      "red quinoa",
+      "whole wheat couscous",
+      "zoodles",
+      "orzo pasta",
+      "cornbread croutons",
+      "barley",
+      "brown and wild rice medley",
+      "summer corn",
+      "toasted farro"
+    ],
+    "vegetable": [
+      "wilted kale",
+      "fresh arugula",
+      "roasted red peppers",
+      "sliced cucumber",
+      "red onions",
+      "char-grilled poblano peppers",
+      "sliced avocado",
+      "steamed broccoli",
+      "roasted sweet potato",
+      "braised baby turnips",
+      "fresh radishes",
+      "carrot medley",
+      "grilled onions",
+      "pickled shallots",
+      "baby bok choy",
+      "fresh mango"
+    ],
+    "sauce":[
+      "creamy basil vinaigrette",
+      "turmeric tahini drizzle",
+      "Thai peanut sauce",
+      "Jamaican jerk sauce",
+      "Whole30-compliant alleged BBQ sauce",
+      "cauliflower queso",
+      "simple balsamic vinaigrette",
+      "raspberry habanero vinaigrette",
+      "avocado green goddess sauce",
+      "Japanese carrot ginger dressing",
+      "consensually sourced unicorn drool",
+      "melted sustainable palm oil"
+
+    ]
+  }
+}

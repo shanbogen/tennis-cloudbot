@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0870bda7-dad9-4225-b115-38b326228570" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/buddhabowl.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/burger.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/pizza.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/liverank.py" />
+      <change beforePath="$PROJECT_DIR$/cloudbot/bot.py" afterPath="$PROJECT_DIR$/cloudbot/bot.py" />
+      <change beforePath="$PROJECT_DIR$/config.default.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/sandwich.json" afterPath="$PROJECT_DIR$/data/sandwich.json" />
+      <change beforePath="$PROJECT_DIR$/data/taco.json" afterPath="$PROJECT_DIR$/data/taco.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/YQL_Currency.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/amazon.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/attacks.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/bing.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/books.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/brainfuck.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/chatbot.py" afterPath="$PROJECT_DIR$/plugins/chatbot.py" />
+      <change beforePath="$PROJECT_DIR$/plugins/correction.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/cryptocurrency.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/cypher.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/dramatica.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/eightball.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/etymology.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/factoids.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/feeds.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/fishbans.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/foods.py" afterPath="$PROJECT_DIR$/plugins/foods.py" />
+      <change beforePath="$PROJECT_DIR$/plugins/fortune.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/geoip.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/github.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/google.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/google_translate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/googleurlparse.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/history.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/horoscope.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/imdb.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/imgur.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/issafe.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/lastfm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/lmgtfy.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/metacritic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/minecraft_ping.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/minecraft_status.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/minecraft_user.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/minecraft_wiki.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/mylife.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/name_generator.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/newegg.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/piglatin.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/poll.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/python.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/quote.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/recipe.py" afterPath="$PROJECT_DIR$/plugins/recipe.py" />
+      <change beforePath="$PROJECT_DIR$/plugins/reddit.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/rottentomatoes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/scene.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/shorten.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/snopes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/soundcloud.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/speedtest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/spellcheck.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/spotify.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/steam_store.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/steam_user.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/steamdb.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/stock.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/suggest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/tell.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/twitch.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/twitter.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/urban.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/utility.py" afterPath="$PROJECT_DIR$/plugins/utility.py" />
+      <change beforePath="$PROJECT_DIR$/plugins/validate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vimeo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/voat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/weather.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/whois.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/wikipedia.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/wolframalpha.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/wordnik.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/wyr.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/xkcd.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/youtube.py" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="chatbot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/chatbot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="137" column="15" lean-forward="false" selection-start-line="137" selection-start-column="15" selection-end-line="137" selection-end-column="15" />
+              <folding>
+                <element signature="e#20#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="textgen.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloudbot/util/textgen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="112" column="19" lean-forward="false" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foods.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/foods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloudbot/bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3335">
+              <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="liverank.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/liverank.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+              <folding>
+                <element signature="e#225#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utility.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/utility.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>usage</find>
+      <find>add</find>
+      <find>RANDOM_URL</find>
+      <find>No results</find>
+      <find>result.find</find>
+      <find>SEARCH_URL</find>
+      <find>get_data</find>
+      <find>taco_data</find>
+      <find>recipe_name</find>
+      <find>burger</find>
+      <find>regex(</find>
+      <find>action</find>
+      <find>regex</find>
+      <find>censor</find>
+      <find>.text</find>
+      <find>result.</find>
+      <find>.</find>
+      <find>print(</find>
+      <find>taco</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/sandwich.json" />
+        <option value="$PROJECT_DIR$/data/buddhabowl.json" />
+        <option value="$PROJECT_DIR$/data/sundae.json" />
+        <option value="$PROJECT_DIR$/cloudbot/event.py" />
+        <option value="$PROJECT_DIR$/plugins/recipe.py" />
+        <option value="$PROJECT_DIR$/cloudbot/bot.py" />
+        <option value="$PROJECT_DIR$/cloudbot/hook.py" />
+        <option value="$PROJECT_DIR$/data/pizza.json" />
+        <option value="$PROJECT_DIR$/data/burger.json" />
+        <option value="$PROJECT_DIR$/plugins/foods.py" />
+        <option value="$PROJECT_DIR$/plugins/liverank.py" />
+        <option value="$PROJECT_DIR$/data/taco.json" />
+        <option value="$PROJECT_DIR$/cloudbot/util/textgen.py" />
+        <option value="$PROJECT_DIR$/plugins/poll.py" />
+        <option value="$PROJECT_DIR$/plugins/utility.py" />
+        <option value="$PROJECT_DIR$/plugins/chatbot.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="474" />
+    <option name="y" value="152" />
+    <option name="width" value="1176" />
+    <option name="height" value="787" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatbot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatbot" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudbot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatbot" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatbot" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatbot" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="rainbow&#9;null&#9;null&#10;regex&#9;FILE&#9;file:///Users/shannon/git/chatbot/plugins/regex_chans.py&#10;action&#9;null&#9;null&#10;buddha&#9;null&#9;null&#10;match_adjective&#9;null&#9;null&#10;action(&#9;ACTION&#9;EditorPopupMenu1&#10;event(&#9;null&#9;null&#10;wordnik&#9;FILE&#9;file:///Users/shannon/git/chatbot/docs/user/wordnik_api.md" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.chatbot">
+    <configuration name="chatbot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugins" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="chatbot" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/chatbot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="youtube" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugins" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="chatbot" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/youtube.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.youtube" />
+      <item index="1" class="java.lang.String" itemvalue="Python.chatbot" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.chatbot" />
+        <item index="1" class="java.lang.String" itemvalue="Python.youtube" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0870bda7-dad9-4225-b115-38b326228570" name="Default" comment="" />
+      <created>1523468546652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523468546652</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="474" y="152" width="1176" height="787" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27891156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16223776" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/plugins/attacks.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/core_ctcp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/core_misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-410">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/brainfuck.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/stock.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/urban.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/whois.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/weather.py" />
+    <entry file="file://$PROJECT_DIR$/cloudbot/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/python.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/help.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-755">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/quote.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/suggest.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/voat.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/vimeo.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/validate.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/reddit.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/github.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/googleurlparse.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/geoip.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/twitch.py" />
+    <entry file="file://$PROJECT_DIR$/data/rekts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1773">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/correction.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/dramatica.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/feeds.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/cypher.py" />
+    <entry file="file://$PROJECT_DIR$/data/kills.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/issafe.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/ignore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/fortunes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/fortune.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/remind.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/buddhabowl.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="50" column="20" lean-forward="false" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sundae.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/flip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/fractions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8960">
+          <caret line="19" column="70" lean-forward="true" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/regex_chans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="57" column="16" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/recipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-474">
+          <caret line="71" column="17" lean-forward="false" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudbot/event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="256" column="8" lean-forward="false" selection-start-line="256" selection-start-column="8" selection-end-line="256" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sandwich.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="69" column="1" lean-forward="true" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/burger.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudbot/hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="222" column="33" lean-forward="false" selection-start-line="222" selection-start-column="33" selection-end-line="222" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudbot/util/textgen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="112" column="19" lean-forward="false" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudbot/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3335">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/poll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="87" column="19" lean-forward="false" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/taco.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/pizza.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/liverank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <element signature="e#225#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/foods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/chatbot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="137" column="15" lean-forward="false" selection-start-line="137" selection-start-column="15" selection-end-line="137" selection-end-column="15" />
+          <folding>
+            <element signature="e#20#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1572 @@
+[2018-05-01][10:35:50] [INFO] Loaded command nanners from chatbot.py
+[2018-05-01][10:35:50] [DEBUG] Loaded Command[name: nanners, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][10:35:50] [INFO] Loaded command world from chatbot.py
+[2018-05-01][10:35:50] [DEBUG] Loaded Command[name: world, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][10:35:50] [INFO] Loaded irc raw nick_compliment (NICK) from chatbot.py
+[2018-05-01][10:35:50] [DEBUG] Loaded Raw[triggers: ['NICK'], type: irc_raw, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][10:35:50] [INFO] Loaded regex hi_hook from chatbot.py
+[2018-05-01][10:35:50] [DEBUG] Loaded Regex[regexes: [^[Hh][Ii] botbot_the(!|\?|\.| *)?$], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][10:35:50] [INFO] Loaded regex hi_tofu from chatbot.py
+[2018-05-01][10:35:50] [DEBUG] Loaded Regex[regexes: [\W*([Tt]ofu)\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][10:35:50] [INFO] Loaded regex writing_letter from chatbot.py
+[2018-05-01][10:35:50] [DEBUG] Loaded Regex[regexes: [(Dear)\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][10:35:50] [INFO] Loaded regex get_rekt from chatbot.py
+[2018-05-01][10:35:50] [DEBUG] Loaded Regex[regexes: [\W*([Rr][Ee][Kk][Tt])\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][10:35:54] [INFO] [esper:#reddit-tennis] <ovah> Yes areas
+[2018-05-01][10:35:54] [INFO] [esper:#reddit-tennis] <stevejhgla> that is sad
+[2018-05-01][10:35:55] [INFO] [esper:#reddit-tennis] <thebogbog> .taco botbot_the
+[2018-05-01][10:35:55] [INFO] [esper:#reddit-tennis] * ServeBot hands botbot_the a boring hard-shell taco filled with steak and topped with scallions, lettuce and capsicum!
+[2018-05-01][10:35:57] [INFO] [esper] >> PRIVMSG #reddit-tennis :(thebogbog) Banana chips! Thanks but I prefer my tacos without a side of death.
+[2018-05-01][10:36:17] [INFO] [esper:#reddit-tennis] * hoglahoo chuckles
+[2018-05-01][10:36:22] [INFO] [esper:#reddit-tennis] <hoglahoo> .pizza botbot_the
+[2018-05-01][10:36:23] [INFO] [esper:#reddit-tennis] * ServeBot sends botbot_the some leftovers of New York style Supreme pizza with some Gorgonzola cheese.
+[2018-05-01][10:36:24] [INFO] [esper] >> PRIVMSG #reddit-tennis :(hoglahoo) Thanks but I don't like cow secretions on my flatbread.
+[2018-05-01][10:36:28] [INFO] [esper:#reddit-tennis] <hoglahoo> lmao
+[2018-05-01][10:36:33] [INFO] [esper:#reddit-tennis] <hoglahoo> ban this bot
+[2018-05-01][10:36:40] [INFO] [esper:#reddit-tennis] <stevejhgla> ban the truth
+[2018-05-01][10:36:53] [INFO] [esper:#reddit-tennis] <hoglahoo> vegan propaganda
+[2018-05-01][10:37:17] [INFO] [esper:#reddit-tennis] <stevejhgla> .define propoganda
+[2018-05-01][10:37:17] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) propoganda: Common misspelling of propaganda. - https://is.gd/pHLu0M (Wiktionary/Wordnik)
+[2018-05-01][10:37:22] [INFO] [esper:#reddit-tennis] <stevejhgla> lmfao
+[2018-05-01][10:37:23] [INFO] [esper:#reddit-tennis] <hoglahoo> haha
+[2018-05-01][10:37:26] [INFO] [esper:#reddit-tennis] <stevejhgla> fuck you too servebot
+[2018-05-01][10:37:29] [INFO] [esper:#reddit-tennis] <stevejhgla> .define propaganda
+[2018-05-01][10:37:29] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) propaganda: The systematic propagation of a doctrine or cause or of information reflecting the views and interests of those advocating such a doctrine or cause. - https://is.gd/sG8cdr (AHD/Wordnik)
+[2018-05-01][10:37:51] [INFO] [esper:#reddit-tennis] <stevejhgla> that sounds like meat/dairy industry if i'm not mistaken
+[2018-05-01][10:37:55] [INFO] [esper:#reddit-tennis] <hoglahoo> thank you for confirming my description as accurate, ServeBot
+[2018-05-01][10:38:08] [INFO] [esper:#reddit-tennis] <hoglahoo> sounds like a lot of things, including this bot!
+[2018-05-01][10:38:30] [INFO] [esper:#reddit-tennis] <stevejhgla> TIL hoglahoo is a bot
+[2018-05-01][10:38:35] [INFO] [esper:#reddit-tennis] <thebogbog> there is so much pro-meat propaganda in this world, i don't think it will hurt anyone to have some vegan propro
+[2018-05-01][10:38:45] [INFO] [esper:#reddit-tennis] <thebogbog> double meaning INTENDED
+[2018-05-01][10:38:54] [INFO] [esper:#reddit-tennis] <stevejhgla> o wow
+[2018-05-01][10:38:55] [INFO] [esper:#reddit-tennis] <stevejhgla> so deep
+[2018-05-01][10:38:57] [INFO] [esper:#reddit-tennis] <thebogbog> anyway
+[2018-05-01][10:38:58] [INFO] [esper:#reddit-tennis] <thebogbog> all you have to do
+[2018-05-01][10:39:01] [INFO] [esper:#reddit-tennis] <thebogbog> is not feed non vegan foods to the bot
+[2018-05-01][10:39:04] [INFO] [esper:#reddit-tennis] <thebogbog> you started it tbh
+[2018-05-01][10:39:05] [INFO] [esper:#reddit-tennis] <hoglahoo> .yt daffy duck of course you know this means war
+[2018-05-01][10:39:06] [INFO] [esper:#reddit-tennis] <ServeBot> (hoglahoo) Of course your realize, this means war! - length 4s - 429 likes, 3 dislikes (99.3%) - 83,652 views - hornyemuproductions on 2014.10.21 - http://youtu.be/4XNr-BQgpd0
+[2018-05-01][10:39:11] [INFO] [esper:#reddit-tennis] <stevejhgla> DUCK SEASON
+[2018-05-01][10:39:15] [INFO] [esper:#reddit-tennis] <stevejhgla> RABBIT SEASON
+[2018-05-01][10:39:18] [INFO] [esper:#reddit-tennis] <stevejhgla> DUCK SEASON
+[2018-05-01][10:39:19] [INFO] [esper:#reddit-tennis] <stevejhgla> .BANG
+[2018-05-01][10:39:19] [INFO] [esper:#reddit-tennis] -!- ServeBot has kicked stevejhgla (There is no duck! What are you shooting at?)
+[2018-05-01][10:39:20] [INFO] [esper:#reddit-tennis] <mcpro> wtf is going on
+[2018-05-01][10:39:20] [INFO] [esper:#reddit-tennis] -!- stevejhgla [uid235913@gateway/web/irccloud.com/x-waoojcwedfjwijuq] has joined
+[2018-05-01][10:39:21] [INFO] [esper:#reddit-tennis] -!- mode/#reddit-tennis [+v stevejhgla] by ChanServ
+[2018-05-01][10:39:25] [INFO] [esper:#reddit-tennis] <mcpro> im trying to make sense of this chat
+[2018-05-01][10:39:26] [INFO] [esper:#reddit-tennis] <mcpro> and i cannot
+[2018-05-01][10:39:31] [INFO] [esper:#reddit-tennis] <stevejhgla> keep trying
+[2018-05-01][10:39:34] [INFO] [esper:#reddit-tennis] <hoglahoo> mcpro: we have a serious lack of meat propaganda in this channel
+[2018-05-01][10:39:39] [INFO] [esper:#reddit-tennis] <hoglahoo> I intend to correct it
+[2018-05-01][10:39:46] [INFO] [esper:#reddit-tennis] <mcpro> hungry for bacon?
+[2018-05-01][10:39:50] [INFO] [esper:#reddit-tennis] <hoglahoo> but not today, because I'm tired due to eating meat all the time
+[2018-05-01][10:39:55] [INFO] [esper:#reddit-tennis] <stevejhgla> haha
+[2018-05-01][10:40:01] [INFO] [esper:#reddit-tennis] <mcpro> yeah that meat'll get you
+[2018-05-01][10:40:07] [INFO] [esper:#reddit-tennis] <thebogbog> again
+[2018-05-01][10:40:14] [INFO] [esper:#reddit-tennis] <thebogbog> just dont
+[2018-05-01][10:40:16] [INFO] [esper:#reddit-tennis] <thebogbog> feed meat to the bot
+[2018-05-01][10:40:21] [INFO] [esper:#reddit-tennis] <thebogbog> and nothing will happen :)
+[2018-05-01][10:40:23] [INFO] [esper:#reddit-tennis] <hoglahoo> .burger botbot_the
+[2018-05-01][10:40:23] [INFO] [esper] >> PRIVMSG #reddit-tennis :ACTION hands botbot_the an excellent low-carb quarter pound beet burger with no bun topped with cucumbers, grilled onions and gochujang aioli!
+[2018-05-01][10:40:29] [INFO] [esper:#reddit-tennis] <thebogbog> ty
+[2018-05-01][10:40:31] [INFO] [esper:#reddit-tennis] <hoglahoo> .define burger
+[2018-05-01][10:40:31] [INFO] [esper:#reddit-tennis] <ServeBot> (hoglahoo) burger: A sandwich consisting of a bun, a cooked beef patty, and often other ingredients such as cheese, onion slices, lettuce, or condiments. Often used in combination:  a cheeseburger.  - https://is.gd/kjUU2A (AHD/Wordnik)
+[2018-05-01][10:40:43] [INFO] [esper:#reddit-tennis] <thebogbog> i would eat that
+[2018-05-01][10:40:46] [INFO] [esper:#reddit-tennis] <thebogbog> i would eat it right up
+[2018-05-01][10:40:46] [INFO] [esper:#reddit-tennis] <hoglahoo> where's the cooked beef patty
+[2018-05-01][10:40:55] [INFO] [esper:#reddit-tennis] <stevejhgla> it's cooked VERY rare
+[2018-05-01][10:40:56] [INFO] [esper:#reddit-tennis] <thebogbog> keep looking, you'll find it in your heart
+[2018-05-01][10:40:59] [INFO] [esper:#reddit-tennis] <hoglahoo> lol
+[2018-05-01][10:40:59] [INFO] [esper:#reddit-tennis] <mcpro> with no bun
+[2018-05-01][10:41:00] [INFO] [esper:#reddit-tennis] <stevejhgla> and still on the cow
+[2018-05-01][10:41:00] [INFO] [esper:#reddit-tennis] <mcpro> WTF
+[2018-05-01][10:41:10] [INFO] [esper:#reddit-tennis] <mcpro> burgers without a bun arent burgers
+[2018-05-01][10:41:19] [INFO] [esper:#reddit-tennis] <stevejhgla> mcpro you have no dog in this fight
+[2018-05-01][10:41:20] [INFO] [esper:#reddit-tennis] <hoglahoo> also, mcpro, it's not a burger if there's no beef patty!
+[2018-05-01][10:41:24] [INFO] [esper:#reddit-tennis] -!- kingoftrex [~kingoftre@unaffiliated/kingoftrex] has joined
+[2018-05-01][10:41:24] [INFO] [esper:#reddit-tennis-dev] -!- kingoftrex [~kingoftre@unaffiliated/kingoftrex] has joined
+[2018-05-01][10:41:24] [INFO] [esper:#reddit-tennis] -!- mode/#reddit-tennis [+v kingoftrex] by ChanServ
+[2018-05-01][10:41:25] [INFO] [esper:#reddit-tennis] <stevejhgla> you call chicken sandwiches chicken burgers
+[2018-05-01][10:41:27] [INFO] [esper:#reddit-tennis] * hoglahoo hands mcpro a hot dog
+[2018-05-01][10:41:36] [INFO] [esper:#reddit-tennis] <mcpro> its not about the dog in the fight but the fight in the dog steven
+[2018-05-01][10:41:52] [INFO] [esper:#reddit-tennis] <stevejhgla> the dog an have all the fight in the world but if he sin't in the fight then it doesn't matter
+[2018-05-01][10:42:13] [INFO] [esper:#reddit-tennis] <mcpro> you dont matter
+[2018-05-01][10:42:15] [INFO] [esper:#reddit-tennis] <mcpro> how about that
+[2018-05-01][10:42:15] [INFO] [esper:#reddit-tennis] <kingoftrex> !quote stevejhgla 
+[2018-05-01][10:42:19] [INFO] [esper:#reddit-tennis] <mcbot> i think that's the definition of American
+[2018-05-01][10:42:21] [INFO] [esper:#reddit-tennis] <hoglahoo> haha
+[2018-05-01][10:42:25] [INFO] [esper:#reddit-tennis] <kingoftrex> what is
+[2018-05-01][10:42:31] [INFO] [esper:#reddit-tennis] <stevejhgla> !quote kingoftrex 
+[2018-05-01][10:42:31] [INFO] [esper:#reddit-tennis] <mcbot> not the first bounce
+[2018-05-01][10:42:39] [INFO] [esper:#reddit-tennis] <stevejhgla> i'm gonna mulligan that one
+[2018-05-01][10:42:40] [INFO] [esper:#reddit-tennis] <stevejhgla> it sucked
+[2018-05-01][10:42:42] [INFO] [esper:#reddit-tennis] <stevejhgla> !quote kingoftrex 
+[2018-05-01][10:42:42] [INFO] [esper:#reddit-tennis] <mcbot> if you break them you can learn and stop being an expert on impure motives huh
+[2018-05-01][10:42:53] [INFO] [esper:#reddit-tennis] <hoglahoo> !quote botbot_the
+[2018-05-01][10:42:58] [INFO] [esper:#reddit-tennis-cooking] <mcpro> jesus christ that is ugly
+[2018-05-01][10:43:03] [INFO] [esper:#reddit-tennis] <stevejhgla> .seen botbot_the 
+[2018-05-01][10:43:03] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) botbot_the was last seen 2 minutes and 40 seconds ago: * botbot_the hands botbot_the an excellent low-carb quarter pound beet burger with no bun topped with cucumbers, grilled onions and gochujang aioli!
+[2018-05-01][10:43:17] [INFO] [esper:#reddit-tennis] <mcpro> mmmmmmmmm aioli
+[2018-05-01][10:43:48] [INFO] [esper:#reddit-tennis] <kingoftrex> !quote mcpro 
+[2018-05-01][10:43:48] [INFO] [esper:#reddit-tennis] <mcbot> Can someone give me a bunch of times
+[2018-05-01][10:43:51] [INFO] [esper:#reddit-tennis] <kingoftrex> ok
+[2018-05-01][10:43:54] [INFO] [esper:#reddit-tennis] <kingoftrex> 1 pm
+[2018-05-01][10:44:00] [INFO] [esper:#reddit-tennis] <hoglahoo> 3x4=12
+[2018-05-01][10:44:03] [INFO] [esper:#reddit-tennis] <stevejhgla> 2:27am
+[2018-05-01][10:44:16] [INFO] [esper:#reddit-tennis] <hoglahoo> the jurassic
+[2018-05-01][10:44:18] [INFO] [esper:#reddit-tennis] <mcpro> 13:37
+[2018-05-01][10:44:52] [INFO] [esper:#reddit-tennis] <stevejhgla> thymus vulgaris
+[2018-05-01][10:45:20] [INFO] [esper:#reddit-tennis] -!- acemon [uid40189@gateway/web/irccloud.com/x-eggibxuxuosfohlg] has joined
+[2018-05-01][10:45:28] [INFO] [esper:#reddit-tennis] <stevejhgla> https://timedotcom.files.wordpress.com/2016/12/cover-final.jpg?quality=85&w=840
+[2018-05-01][10:46:17] [INFO] [esper:#reddit-tennis] <hoglahoo> .gis nyt
+[2018-05-01][10:46:18] [INFO] [esper:#reddit-tennis] <ServeBot> (hoglahoo) https://www.arab-news.biz/wp-content/uploads/2018/04/f78f8e2d79164e89922c5ef72328f632_18-990x556.jpg
+[2018-05-01][10:49:42] [INFO] [esper:#reddit-tennis] <ServeBot> ・゜゜ ​ ・。。・゜゜\​_o< FLAP FLAP​!
+[2018-05-01][10:49:48] [INFO] [esper:#reddit-tennis] <stevejhgla> .bang
+[2018-05-01][10:49:48] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) WTF!? Who are you Dick Cheney? You can try again in 7 seconds.
+[2018-05-01][10:49:57] [INFO] [esper:#reddit-tennis] <hoglahoo> stop trying to kill animals
+[2018-05-01][10:49:57] [INFO] [esper:#reddit-tennis] <stevejhgla> .bang
+[2018-05-01][10:49:57] [INFO] [esper:#reddit-tennis] <ServeBot> stevejhgla you shot a duck in 14.707 seconds! You have killed 1017 ducks in #reddit-tennis.
+[2018-05-01][10:50:10] [INFO] [esper:#reddit-tennis] <stevejhgla> ditto m8
+[2018-05-01][10:50:32] [INFO] [esper:#reddit-tennis] <hoglahoo> "You have killed 1017 ducks"
+[2018-05-01][10:50:36] [INFO] [esper:#reddit-tennis] <hoglahoo> smh
+[2018-05-01][10:51:01] [INFO] [esper:#reddit-tennis] * hoglahoo has never killed a duck on purpose
+[2018-05-01][10:51:07] [INFO] [esper:#reddit-tennis] <mcpro> WTF
+[2018-05-01][10:51:11] [INFO] [esper:#reddit-tennis] <mcpro> thats not true is it
+[2018-05-01][10:51:25] [INFO] [esper:#reddit-tennis] <hoglahoo> it's true - he has killed over a thousand ducks
+[2018-05-01][10:51:37] [INFO] [esper:#reddit-tennis] <mcpro> jeez
+[2018-05-01][10:51:41] [INFO] [esper:#reddit-tennis] <mcpro> log out once in a while steve
+[2018-05-01][10:51:44] [INFO] [esper:#reddit-tennis] <mcpro> .killers
+[2018-05-01][10:51:44] [INFO] [esper:#reddit-tennis] <ServeBot> (mcpro) Duck killer scores in #reddit-tennis: s​tevejhgla: 1017 • k​orvus: 824 • j​ibbles27: 371 • r​eblochon: 200 • m​efistofeles: 150 • m​ero: 144 • a​bortion: 126 • m​cpro: 119 • a​reascontrol: 118 • b​lekginger: 103 • a​cedogg: 100 • s​nacilep: 89 • w​yoming420: 74 • s​olen: 68...
+[2018-05-01][10:51:46] [INFO] [esper:#reddit-tennis] <mcpro> .friends
+[2018-05-01][10:51:46] [INFO] [esper:#reddit-tennis] <ServeBot> (mcpro) Duck friend scores in #reddit-tennis: v​aanir: 10001 • s​tevejhgla: 1384 • b​lekginger: 756 • t​hebogbog: 556 • m​ero: 323 • o​vah: 181 • f​rosty: 172 • k​ingoftrex: 148 • a​bortion: 126 • e​lpogo: 110 • m​erokoyui: 102 • s​olen: 97 • b​ananabanana: 79 • s​tonelore: 63 • a​lecksi: 62...
+[2018-05-01][10:51:54] [INFO] [esper:#reddit-tennis] <mcpro> yeesh korvus too
+[2018-05-01][10:52:06] [INFO] [esper:#reddit-tennis] <mcpro> lol solen
+[2018-05-01][14:27:06] [WARNING] Bot received Signal Interrupt (2)
+[2018-05-01][14:27:06] [INFO] Stopping bot.
+[2018-05-01][14:27:06] [DEBUG] Stopping config reloader.
+[2018-05-01][14:27:06] [DEBUG] Stopping plugin reloader.
+[2018-05-01][14:27:06] [DEBUG] [esper] Closing connection.
+[2018-05-01][14:27:06] [INFO] [esper] >> QUIT :Killed (Received SIGINT 2)
+[2018-05-01][14:27:07] [DEBUG] Stopping logging engine
+[2018-05-01][14:27:09] [INFO] Starting CloudBot.
+[2018-05-01][14:27:09] [DEBUG] Config loaded from file.
+[2018-05-01][14:27:09] [DEBUG] Config system initialised.
+[2018-05-01][14:27:09] [DEBUG] Database system initialised.
+[2018-05-01][14:27:09] [DEBUG] Bot setup completed.
+[2018-05-01][14:27:09] [INFO] [esper|permissions] Created permission manager for esper.
+[2018-05-01][14:27:09] [INFO] [esper|permissions] Reloading permissions for esper.
+[2018-05-01][14:27:09] [DEBUG] [esper|permissions] Group permissions: {'admins': ['addfactoid', 'delfactoid', 'ignore', 'botcontrol', 'plpaste', 'permissions_users', 'op'], 'moderators': ['addfactoid', 'delfactoid', 'ignore']}
+[2018-05-01][14:27:09] [DEBUG] [esper|permissions] Group users: {'admins': ['examplea!user@example.com', 'exampleb!user@example.com'], 'moderators': ['examplec!user@example.com']}
+[2018-05-01][14:27:09] [DEBUG] [esper|permissions] Permission users: {'addfactoid': ['examplea!user@example.com', 'exampleb!user@example.com', 'examplec!user@example.com'], 'delfactoid': ['examplea!user@example.com', 'exampleb!user@example.com', 'examplec!user@example.com'], 'ignore': ['examplea!user@example.com', 'exampleb!user@example.com', 'examplec!user@example.com'], 'botcontrol': ['examplea!user@example.com', 'exampleb!user@example.com'], 'plpaste': ['examplea!user@example.com', 'exampleb!user@example.com'], 'permissions_users': ['examplea!user@example.com', 'exampleb!user@example.com'], 'op': ['examplea!user@example.com', 'exampleb!user@example.com']}
+[2018-05-01][14:27:09] [DEBUG] [esper] Created connection.
+[2018-05-01][14:27:09] [INFO] Registering tables for regex_chans
+[2018-05-01][14:27:09] [INFO] Loaded command tv/tv_next from tvdb.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: tv, aliases: ['tv_next'], type: command, plugin: tvdb, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command tv_prev/tv_last from tvdb.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: tv_prev, aliases: ['tv_last'], type: command, plugin: tvdb, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Registering tables for notes
+[2018-05-01][14:27:09] [INFO] Loaded command groups/permgroups/listgroups from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: groups, aliases: ['permgroups', 'listgroups'], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command gperms from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: gperms, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command gusers from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: gusers, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command uperms from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: uperms, aliases: [], type: command, plugin: admin_bot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command ugroups from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: ugroups, aliases: [], type: command, plugin: admin_bot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command deluser from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: deluser, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command adduser from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: adduser, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command stop/quit from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: stop, aliases: ['quit'], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: False]
+[2018-05-01][14:27:09] [INFO] Loaded command restart from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: restart, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: False]
+[2018-05-01][14:27:09] [INFO] Loaded command join from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: join, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command part from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: part, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command cycle from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: cycle, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command nick from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: nick, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command raw from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: raw, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command say from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: say, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command message/sayto from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: message, aliases: ['sayto'], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command me/act from admin_bot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: me, aliases: ['act'], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Registering tables for ignore
+[2018-05-01][14:27:09] [INFO] Loaded command plpaste from plpaste.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: plpaste, aliases: [], type: command, plugin: plpaste, permissions: ['plpaste'], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded irc raw init_tasks (004) from core_sieve.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: core_sieve, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded sieve sieve_suite from core_sieve.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Sieve[type: sieve, plugin: core_sieve, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command flip from flip.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: flip, aliases: [], type: command, plugin: flip, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command table from flip.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: table, aliases: [], type: command, plugin: flip, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Registering tables for karma
+[2018-05-01][14:27:09] [INFO] Loaded command ask from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: ask, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command predict from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: predict, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command taco from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: taco, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command potato from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: potato, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command sandwich from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: sandwich, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command pizza from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: pizza, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command sleek from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: sleek, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command nanners from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: nanners, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded command world from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Command[name: world, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded irc raw nick_compliment (NICK) from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Raw[triggers: ['NICK'], type: irc_raw, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded regex hi_hook from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Regex[regexes: [^[Hh][Ii] botbot_the(!|\?|\.| *)?$], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded regex hi_tofu from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Regex[regexes: [\W*([Tt]ofu)\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded regex writing_letter from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Regex[regexes: [(Dear)\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:09] [INFO] Loaded regex get_rekt from chatbot.py
+[2018-05-01][14:27:09] [DEBUG] Loaded Regex[regexes: [\W*([Rr][Ee][Kk][Tt])\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command liverank from liverank.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: liverank, aliases: [], type: command, plugin: liverank, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command rank from liverank.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: rank, aliases: [], type: command, plugin: liverank, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw on_kick (KICK) from core_tracker.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['KICK'], type: irc_raw, plugin: core_tracker, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw on_nick (NICK) from core_tracker.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['NICK'], type: irc_raw, plugin: core_tracker, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw on_join (PART) from core_tracker.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['PART'], type: irc_raw, plugin: core_tracker, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command about from system.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: about, aliases: [], type: command, plugin: system, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command system from system.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: system, aliases: [], type: command, plugin: system, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command recipe from recipe.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: recipe, aliases: [], type: command, plugin: recipe, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command dinner/wtfsimfd from recipe.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: dinner, aliases: ['wtfsimfd'], type: command, plugin: recipe, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw invite (INVITE) from core_misc.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['INVITE'], type: irc_raw, plugin: core_misc, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw onjoin (004) from core_misc.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: core_misc, permissions: [], single_thread: False, threaded: False]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw keep_alive (004) from core_misc.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: core_misc, permissions: [], single_thread: False, threaded: False]
+[2018-05-01][14:27:10] [INFO] Loaded command password from password.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: password, aliases: [], type: command, plugin: password, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command wpass/wordpassword/wordpass from password.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: wpass, aliases: ['wordpassword', 'wordpass'], type: command, plugin: password, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded event ctcp_version (EventType.other) from core_ctcp.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Event[types: [<EventType.other: 6>], type: event, plugin: core_ctcp, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded event ctcp_ping (EventType.other) from core_ctcp.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Event[types: [<EventType.other: 6>], type: event, plugin: core_ctcp, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded event ctcp_time (EventType.other) from core_ctcp.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Event[types: [<EventType.other: 6>], type: event, plugin: core_ctcp, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command kernel from linux.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: kernel, aliases: [], type: command, plugin: linux, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command down/offline/up from pagecheck.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: down, aliases: ['offline', 'up'], type: command, plugin: pagecheck, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command isup from pagecheck.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: isup, aliases: [], type: command, plugin: pagecheck, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command help from help.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: help, aliases: [], type: command, plugin: help, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command flushlog from log.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: flushlog, aliases: [], type: command, plugin: log, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw log_raw (*) from log.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['*'], type: irc_raw, plugin: log, permissions: [], single_thread: True, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw log (*) from log.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['*'], type: irc_raw, plugin: log, permissions: [], single_thread: True, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw console_log (*) from log.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['*'], type: irc_raw, plugin: log, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command supperscript from utility.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: supperscript, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command wuote from utility.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: wuote, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command bnag from utility.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: bnag, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command bfe from utility.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: bfe, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command bagn from utility.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: bagn, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command ebf from utility.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: ebf, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command ban from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: ban, aliases: [], type: command, plugin: admin_channel, permissions: ['op_ban', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command unban from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: unban, aliases: [], type: command, plugin: admin_channel, permissions: ['op_ban', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command quiet from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: quiet, aliases: [], type: command, plugin: admin_channel, permissions: ['op_quiet', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command unquiet from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: unquiet, aliases: [], type: command, plugin: admin_channel, permissions: ['op_quiet', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command voice from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: voice, aliases: [], type: command, plugin: admin_channel, permissions: ['op_voice', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command devoice from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: devoice, aliases: [], type: command, plugin: admin_channel, permissions: ['op_voice', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command op from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: op, aliases: [], type: command, plugin: admin_channel, permissions: ['op_op', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command deop from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: deop, aliases: [], type: command, plugin: admin_channel, permissions: ['op_op', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command topic from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: topic, aliases: [], type: command, plugin: admin_channel, permissions: ['op_topic', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command kick from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: kick, aliases: [], type: command, plugin: admin_channel, permissions: ['op_kick', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command remove from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: remove, aliases: [], type: command, plugin: admin_channel, permissions: ['op_rem', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command mute from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: mute, aliases: [], type: command, plugin: admin_channel, permissions: ['op_mute', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command unmute from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: unmute, aliases: [], type: command, plugin: admin_channel, permissions: ['op_mute', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command lock from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: lock, aliases: [], type: command, plugin: admin_channel, permissions: ['op_lock', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command unlock from admin_channel.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: unlock, aliases: [], type: command, plugin: admin_channel, permissions: ['op_lock', 'op'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Registering tables for remind
+[2018-05-01][14:27:10] [INFO] Loaded command roll/dice from gaming.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: roll, aliases: ['dice'], type: command, plugin: gaming, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command choose from gaming.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: choose, aliases: [], type: command, plugin: gaming, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command coin from gaming.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: coin, aliases: [], type: command, plugin: gaming, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw on_connect (004) from cap.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: cap, permissions: [], single_thread: False, threaded: False]
+[2018-05-01][14:27:10] [INFO] Loaded irc raw on_cap (CAP) from cap.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Raw[triggers: ['CAP'], type: irc_raw, plugin: cap, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command ping from ping.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: ping, aliases: [], type: command, plugin: ping, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command note/todo/notes from notes.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: note, aliases: ['todo', 'notes'], type: command, plugin: notes, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command time from time_plugin.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: time, aliases: [], type: command, plugin: time_plugin, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command beats from time_plugin.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: beats, aliases: [], type: command, plugin: time_plugin, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command karma/k from karma.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: karma, aliases: ['k'], type: command, plugin: karma, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command loved from karma.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: loved, aliases: [], type: command, plugin: karma, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded regex karma_add from karma.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Regex[regexes: [^([a-z0-9_\-\[\]\^{}|`]{3,})(\+\+|\-\-)$], type: regex, plugin: karma, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command veganpotato from foods.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: veganpotato, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command vegansandwich from foods.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: vegansandwich, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command buddhabowl from foods.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: buddhabowl, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command vegantaco from foods.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: vegantaco, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command veganpizza from foods.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: veganpizza, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command sundae from foods.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: sundae, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command burger from foods.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: burger, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command octopart/octo from octopart.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: octopart, aliases: ['octo'], type: command, plugin: octopart, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command locate/maps from locate.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: locate, aliases: ['maps'], type: command, plugin: locate, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command threaddump from profiling.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: threaddump, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command objtypes from profiling.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: objtypes, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command objgrowth from profiling.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: objgrowth, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command pymsummary from profiling.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: pymsummary, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command pymdiff from profiling.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: pymdiff, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command enableregex from regex_chans.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: enableregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command disableregex from regex_chans.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: disableregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command resetregex from regex_chans.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: resetregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command regexstatus from regex_chans.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: regexstatus, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command listregex from regex_chans.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: listregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded sieve sieve_regex from regex_chans.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Sieve[type: sieve, plugin: regex_chans, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command ignore from ignore.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: ignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command unignore from ignore.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: unignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command global_ignore from ignore.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: global_ignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded command global_unignore from ignore.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: global_unignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded sieve ignore_sieve from ignore.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Sieve[type: sieve, plugin: ignore, permissions: [], single_thread: False, threaded: True]
+[2018-05-01][14:27:10] [INFO] Loaded periodic hook (30 seconds) check_reminders from remind.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Periodic[interval: [30], type: periodic, plugin: remind, permissions: [], single_thread: False, threaded: False]
+[2018-05-01][14:27:10] [INFO] Loaded command remind/reminder from remind.py
+[2018-05-01][14:27:10] [DEBUG] Loaded Command[name: remind, aliases: ['reminder'], type: command, plugin: remind, permissions: [], single_thread: False, threaded: False]
+[2018-05-01][14:27:10] [INFO] [esper] Connecting
+[2018-05-01][14:27:10] [INFO] [esper] >> NICK :botbot_the
+[2018-05-01][14:27:10] [INFO] [esper] >> USER cloudbot 3 * :CloudBot - https://git.io/CloudBot
+[2018-05-01][14:27:10] [INFO] [esper:*] -hitchcock.freenode.net- *** Looking up your hostname...
+[2018-05-01][14:27:10] [INFO] [esper:*] -hitchcock.freenode.net- *** Checking Ident
+[2018-05-01][14:27:10] [INFO] [esper:*] -hitchcock.freenode.net- *** Found your hostname
+[2018-05-01][14:27:16] [INFO] [esper:*] -hitchcock.freenode.net- *** No Ident response
+[2018-05-01][14:27:16] [INFO] [esper|misc] Bot is sending join commands for network.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 001 botbot_the :Welcome to the freenode Internet Relay Chat Network botbot_the
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 002 botbot_the :Your host is hitchcock.freenode.net[130.185.232.126/6667], running version ircd-seven-1.1.5
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 003 botbot_the :This server was created Tue Dec 12 2017 at 21:10:35 UTC
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 004 botbot_the hitchcock.freenode.net ircd-seven-1.1.5 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[2018-05-01][14:27:16] [INFO] [esper|sieve] Bot is starting ratelimiter cleanup task.
+[2018-05-01][14:27:16] [INFO] [esper|misc] Bot is joining channels for network.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 005 botbot_the CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 005 botbot_the CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 005 botbot_the EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 251 botbot_the :There are 119 users and 91762 invisible on 34 servers
+[2018-05-01][14:27:16] [INFO] [esper] >> JOIN #reddit-tennis-dev
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 252 botbot_the 28 :IRC Operators online
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 253 botbot_the 129 :unknown connection(s)
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 254 botbot_the 52576 :channels formed
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 255 botbot_the :I have 4697 clients and 1 servers
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 265 botbot_the 4697 5963 :Current local users 4697, max 5963
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 266 botbot_the 91881 96964 :Current global users 91881, max 96964
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 250 botbot_the :Highest connection count: 5964 (5963 clients) (1461418 connections received)
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 375 botbot_the :- hitchcock.freenode.net Message of the Day - 
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- HITCHCOCK, SIR ALFRED [1899 - 1980] Born in Essex,
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- Group Contacts representing an on-topic group.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- Neterra Communications (www.neterra.net)
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- techniques in film-making, made more than 50 feature films,
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- and influenced many present-day directors and producers.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- freenode runs an open proxy scanner.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- software communities since 1998.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- By connecting to freenode you indicate that you have read and
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- accept our policies and guidelines as set out on https://freenode.net
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- information or, as appropriate, involve other parties such as channel operators 
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- and producer. Over a long career he pioneered many modern
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- England, Sir Alfred Hitchcock was a noted film director
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- situation within a reasonable period of time, and we may request further
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- please notify a volunteer staff member via private message, or send us an
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- e-mail to complaints@freenode.net -- we will do our best to address the
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- In the event that you observe behaviour that contravenes our policies,
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- Welcome to freenode - supporting the free and open source
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- If you are looking for assistance, you will be able to find a list of
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- volunteer staff using the '/who freenode/staff/*' command, and you may
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- message any of us at any time. Please note that freenode predominantly
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- provides assistance via private message, and while we have a network
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- channel the primary venue for support requests is via private message to
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- a member of the volunteer staff team.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- From time to time, volunteer staff may send server-wide notices relating to
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- the project, or the communities that we host. The majority of such notices
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- do not miss them. Important messages relating to the freenode project, including
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- notices of upcoming maintenance and other scheduled downtime will be issued as
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- global notices.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- Representing an on-topic project? Don't forget to register, more information
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- can be found on the https://freenode.net website under "Group Registration".
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- freenode organises an annual conference, and we would like to extend our
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- Thank you also to our server sponsors for the sustained support in keeping the
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- network going for close to two decades.
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- you are interested in sponsoring this event, please send an e-mail to
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- sponsor@freenode.live
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :- Thank you for using freenode!
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 372 botbot_the :-  
+[2018-05-01][14:27:16] [INFO] [esper] :hitchcock.freenode.net 376 botbot_the :End of /MOTD command.
+[2018-05-01][14:27:16] [INFO] [esper:botbot_the] -!- mode/botbot_the [:+i] by botbot_the
+[2018-05-01][14:27:16] [INFO] [esper:nickserv] -NickServ- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[2018-05-01][14:27:17] [INFO] [esper] >> JOIN #reddit-tennis-cooking
+[2018-05-01][14:27:17] [INFO] [esper] >> JOIN #reddit-tennis
+[2018-05-01][14:27:18] [INFO] [esper|misc] Bot has finished sending join commands for network.
+[2018-05-01][14:27:19] [INFO] [esper] >> CAP LS
+[2018-05-01][14:27:22] [INFO] [esper:#reddit-tennis-dev] -!- botbot_the [~cloudbot@96-83-120-66-static.hfc.comcastbusiness.net] has joined
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 332 botbot_the #reddit-tennis-dev :updated 2/27/2018 - Cloudbot: https://pastebin.com/BzTa8LKg
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 333 botbot_the #reddit-tennis-dev kingoftrex!~kingoftre@unaffiliated/kingoftrex 1519750910
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 353 botbot_the @ #reddit-tennis-dev :botbot_the blekginger stevejhgla kingoftrex thebogbog lowhope botlahoo Vaanir ServeBot
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 366 botbot_the #reddit-tennis-dev :End of /NAMES list.
+[2018-05-01][14:27:22] [INFO] [esper:#reddit-tennis-cooking] -!- botbot_the [~cloudbot@96-83-120-66-static.hfc.comcastbusiness.net] has joined
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 332 botbot_the #reddit-tennis-cooking :a starch extracted from cassava root; it is devoid of nutrition and low in food energy; in developed countries, it is used as a thickening agent in various manufactured foods
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 333 botbot_the #reddit-tennis-cooking thebogbog!uid114333@gateway/web/irccloud.com/x-taoserfcczjggeyi 1523237416
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 353 botbot_the = #reddit-tennis-cooking :botbot_the Frosty stevejhgla bananabanana thebogbog hoglahoo lowhope
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 366 botbot_the #reddit-tennis-cooking :End of /NAMES list.
+[2018-05-01][14:27:22] [INFO] [esper:#reddit-tennis] -!- botbot_the [~cloudbot@96-83-120-66-static.hfc.comcastbusiness.net] has joined
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 332 botbot_the #reddit-tennis :This week in tennis: WTA: Prague & Rabat (280s); ATP: Munich, Istanbul & Estoril (250s) | Commands: ?stream .help .discord .brackets .tennis
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 333 botbot_the #reddit-tennis blekginger!~Gunnar@unaffiliated/blekginger 1525087104
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 366 botbot_the #reddit-tennis :End of /NAMES list.
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net 353 botbot_the = #reddit-tennis :botbot_the bananabanana JanC blekginger Frosty +stevejhgla jibbles27 iclon Korvus acemon +kingoftrex ovah baraba jibbles27_ Ash- +thebogbog tefilein snee hoglahoo Cosmicjoker mcbot stonelore Ikoru theglass mayorga lowhope cottongin Ald0 dihuteno_ botlahoo Abortion Silkroad areascontrol dagobert___ rajvasa [CAN] Ruhan justache Vaanir peaches radiofree m4rCsi_ TCapsYear @ServeBot skiff shodan45 Snuupy acidtech bayleaf
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net CAP botbot_the LS :account-notify extended-join identify-msg multi-prefix sasl
+[2018-05-01][14:27:22] [INFO] [esper] >> CAP LIST
+[2018-05-01][14:27:22] [INFO] [esper:#reddit-tennis] <hoglahoo> noise canceling headphones
+[2018-05-01][14:27:22] [INFO] [esper:chanserv] -ChanServ- [#reddit-tennis] Welcome to #reddit-tennis. Visit us on the Interwebs at http://tennis.reddit.com . This channel is usually most active during matches, so be sure to join us then!
+[2018-05-01][14:27:22] [INFO] [esper] :services. 328 botbot_the #reddit-tennis :http://tennis.reddit.com
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net CAP botbot_the LIST :
+[2018-05-01][14:27:22] [INFO] [esper] >> CAP REQ :extended-join multi-prefix account-notify
+[2018-05-01][14:27:22] [INFO] [esper] :hitchcock.freenode.net CAP botbot_the ACK :extended-join multi-prefix account-notify 
+[2018-05-01][14:27:22] [INFO] [esper|CAP] Successfully negotiated for: {'extended-join', 'multi-prefix', 'account-notify'}
+[2018-05-01][14:27:22] [INFO] [esper] >> CAP END
+[2018-05-01][14:27:27] [INFO] [esper:#reddit-tennis] <Cosmicjoker> .imdb catsoup
+[2018-05-01][14:27:29] [INFO] [esper:#reddit-tennis] <thebogbog> "this cat meows too much so i'm giving her back 5 years later"
+[2018-05-01][14:27:38] [INFO] [esper:#reddit-tennis] <ServeBot> (Cosmicjoker) Cat Soup (2001) (Animation, Short, Comedy, Fantasy): A young anthropomorphic cat goes on a psychedelic journey with his sister in order to save her soul. 34min. 7.7/10 with 3806 votes. http://www.imdb.com/title/tt0385586
+[2018-05-01][14:27:49] [INFO] [esper:#reddit-tennis] <bananabanana> but hazel is so fat she's so adorable
+[2018-05-01][14:28:03] [INFO] [esper:#reddit-tennis] <kingoftrex> maybe thats what shes going for
+[2018-05-01][14:29:14] [INFO] [esper:#reddit-tennis] <kingoftrex> i think it mostly boils down to her lack of exercise
+[2018-05-01][14:29:27] [INFO] [esper:#reddit-tennis] <kingoftrex> i'm setting a bad example
+[2018-05-01][14:29:57] [INFO] [esper:#reddit-tennis] <thebogbog> she is definitely cute-fat
+[2018-05-01][14:29:58] [INFO] [esper:#reddit-tennis] <thebogbog> not sad-fat
+[2018-05-01][14:30:11] [INFO] [esper:#reddit-tennis] <areascontrol> lol just saw your fat cat, kingoftrex 
+[2018-05-01][14:30:11] [INFO] [esper:#reddit-tennis] <mcbot> and sending a protest got attached to a vegetarian restaurant for my game holds up
+[2018-05-01][14:30:14] [INFO] [esper:#reddit-tennis] <hoglahoo> maybe she'll start being more energetic if you get a dog
+[2018-05-01][14:30:15] [INFO] [esper:#reddit-tennis] <areascontrol> #noshame
+[2018-05-01][14:30:18] [INFO] [esper:#reddit-tennis] <Cosmicjoker> give her some acid and mandy
+[2018-05-01][14:30:21] [INFO] [esper:#reddit-tennis] <hoglahoo> heh
+[2018-05-01][14:30:27] [INFO] [esper:#reddit-tennis] <Cosmicjoker> turn her into a crack cat
+[2018-05-01][14:30:48] [INFO] [esper:#reddit-tennis] <kingoftrex> she has realized that she cant jump anymore so she just doesnt lol
+[2018-05-01][14:30:51] [INFO] [esper:#reddit-tennis] <areascontrol> here is upside down arthur again:  https://usercontent.irccloud-cdn.com/file/ZcgikulX/IMG_2571.jpg
+[2018-05-01][14:30:53] [INFO] [esper:#reddit-tennis] <kingoftrex> used to be able to climb my fridge
+[2018-05-01][14:30:54] [INFO] [esper:#reddit-tennis] <Cosmicjoker> lol poor thing
+[2018-05-01][14:31:13] [INFO] [esper:#reddit-tennis] <kingoftrex> arthur is very cute
+[2018-05-01][14:31:38] [INFO] [esper:#reddit-tennis] <hoglahoo> arthur looks like a light snack compared to hazel
+[2018-05-01][14:31:45] [INFO] [esper:#reddit-tennis] <hoglahoo> very slim
+[2018-05-01][14:31:47] [INFO] [esper:#reddit-tennis] <Cosmicjoker> lean meat
+[2018-05-01][14:31:54] [INFO] [esper:#reddit-tennis] <hoglahoo> looks like he's wearing a suit
+[2018-05-01][14:31:57] [INFO] [esper:#reddit-tennis] <Cosmicjoker> trained killer
+[2018-05-01][14:32:05] [INFO] [esper:#reddit-tennis] <hoglahoo> lean mean fighting machine
+[2018-05-01][14:32:17] [INFO] [esper:#reddit-tennis] <Cosmicjoker> hazel is more of a bouncer
+[2018-05-01][14:32:22] [INFO] [esper:#reddit-tennis] <hoglahoo> lol
+[2018-05-01][14:32:31] [INFO] [esper:#reddit-tennis] <areascontrol> he's young yet
+[2018-05-01][14:32:37] [INFO] [esper:#reddit-tennis] <blekginger> .tennis king
+[2018-05-01][14:32:37] [INFO] [esper:#reddit-tennis] <ServeBot> (blekginger) 2018 Savannah Challenger (Men's Singles) (Savannah, United States): | Round of 32: (Q)Karue Sell d. (8)Evan King: 6-2, 6-1
+[2018-05-01][14:32:38] [INFO] [esper:#reddit-tennis] <ServeBot> 2018 Puerto Vallerta Challenger (Men's Singles) (Puerto Vallarta, Mexico): | Round of 32: (3)Kevin King d. Nicolaas Scholtz: 6-3, 6-1
+[2018-05-01][14:32:44] [INFO] [esper:#reddit-tennis] <kingoftrex> fuck
+[2018-05-01][14:32:45] [INFO] [esper:#reddit-tennis] <areascontrol> but i think he'd get fat if we let him since he never goes out
+[2018-05-01][14:32:46] [INFO] [esper:#reddit-tennis] <kingoftrex> kevin won
+[2018-05-01][14:32:51] [INFO] [esper:#reddit-tennis] <hoglahoo> .liverank hazel
+[2018-05-01][14:32:51] [INFO] [esper] >> PRIVMSG #reddit-tennis :(hoglahoo) Please use the format 'rank {atp|wta} {player}'
+[2018-05-01][14:32:58] [INFO] [esper:#reddit-tennis] <hoglahoo> .liverank wta hazel
+[2018-05-01][14:33:03] [INFO] [esper] >> PRIVMSG #reddit-tennis :(hoglahoo) Player not found
+[2018-05-01][14:33:08] [INFO] [esper:#reddit-tennis] <hoglahoo> .liverank atp arthur
+[2018-05-01][14:33:14] [INFO] [esper:#reddit-tennis] <blekginger> .liverank wta burger
+[2018-05-01][14:33:14] [INFO] [esper] >> PRIVMSG #reddit-tennis :(hoglahoo) #282: Arthur De Greef
+[2018-05-01][14:33:20] [INFO] [esper] >> PRIVMSG #reddit-tennis :(blekginger) #317: Cindy Burger
+[2018-05-01][14:33:21] [INFO] [esper:#reddit-tennis] <stevejhgla> .liverank atp luke
+[2018-05-01][14:33:27] [INFO] [esper] >> PRIVMSG #reddit-tennis :(stevejhgla) #455: Luke Saville
+[2018-05-01][14:33:34] [INFO] [esper:#reddit-tennis] <stevejhgla> .liverank wta nora
+[2018-05-01][14:33:39] [INFO] [esper] >> PRIVMSG #reddit-tennis :(stevejhgla) #453: Eleonora Molinaro
+[2018-05-01][14:33:58] [INFO] [esper:#reddit-tennis] <hoglahoo> nora / naro
+[2018-05-01][14:34:11] [INFO] [esper:#reddit-tennis] <stevejhgla> ya
+[2018-05-01][14:35:41] [INFO] [esper:#reddit-tennis] <kingoftrex> .liverank atp norrie
+[2018-05-01][14:35:45] [INFO] [esper] >> PRIVMSG #reddit-tennis :(kingoftrex) #100: Cameron Norrie
+[2018-05-01][14:36:01] [INFO] [esper:#reddit-tennis] <hoglahoo> gelp
+[2018-05-01][14:36:02] [INFO] [esper:#reddit-tennis] <hoglahoo> gulp
+[2018-05-01][14:37:19] [INFO] [esper:#reddit-tennis] -!- reblochon [uid94493@gateway/web/irccloud.com/x-enggrnmonpkbxzgb] has joined
+[2018-05-01][14:37:19] [INFO] [esper:#reddit-tennis] -!- mode/#reddit-tennis [+v reblochon] by ChanServ
+[2018-05-01][14:37:40] [INFO] [esper:#reddit-tennis] <stevejhgla> .seen reblochon 
+[2018-05-01][14:37:40] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) reblochon was last seen 1 day and 21 hours ago: * reblochon hugs ovah
+[2018-05-01][14:37:42] [INFO] [esper:#reddit-tennis] <stevejhgla> !quote reblochon 
+[2018-05-01][14:37:42] [INFO] [esper:#reddit-tennis] <mcbot> gilou v big K reached that level 2 matches in 5 sets and 25 bp not converted
+[2018-05-01][14:38:05] [INFO] [esper:#reddit-tennis] <reblochon> !quote stevejhgla
+[2018-05-01][14:38:08] [INFO] [esper:#reddit-tennis] <mcbot> thebogbog and I feel like dawdle should actually be 58 and we’d never know
+[2018-05-01][14:38:18] [INFO] [esper:#reddit-tennis] <stevejhgla> .wa age dawdle
+[2018-05-01][14:38:20] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) No results.
+[2018-05-01][14:38:29] [INFO] [esper:#reddit-tennis] <thebogbog> .wiki dawdle
+[2018-05-01][14:38:30] [INFO] [esper:#reddit-tennis] <ServeBot> (thebogbog) Dawley is a small town in the borough of Telford and Wrekin and ceremonial county of Shropshire, England. :: https://en.wikipedia.org/wiki/Dawley
+[2018-05-01][14:38:36] [INFO] [esper:#reddit-tennis] <thebogbog> shropshire eh
+[2018-05-01][14:38:45] [INFO] [esper:#reddit-tennis] <thebogbog> ok
+[2018-05-01][14:38:49] [INFO] [esper:#reddit-tennis] <thebogbog> so this is basically the north dakota of england
+[2018-05-01][14:39:33] [INFO] [esper:#reddit-tennis] <stevejhgla> https://assets.snaptrip.com/assets/home/landing_pages/River-Severn,-Ironbridge,-Shropshire-af4512ed3b8028f11f10e2aa4908054cc703e3c0c696b2a0a1a51ac84865599a.jpg
+[2018-05-01][14:39:36] [INFO] [esper:#reddit-tennis] <thebogbog> TIL there's a place called the Shropshire Hills Area of Natural Beauty
+[2018-05-01][14:39:37] [INFO] [esper:#reddit-tennis] <stevejhgla> shropshire is beautiful
+[2018-05-01][14:39:44] [INFO] [esper:#reddit-tennis] <thebogbog> ya
+[2018-05-01][14:39:47] [INFO] [esper:#reddit-tennis] <thebogbog> that's real nice
+[2018-05-01][14:39:52] [INFO] [esper:#reddit-tennis] <thebogbog> .gis shropshire AONB
+[2018-05-01][14:39:53] [INFO] [esper:#reddit-tennis] <ServeBot> (thebogbog) http://englandexplore.com/wp-content/uploads/5637563480_33316618d3_b_Shropshire-Hills-AONB.jpg
+[2018-05-01][14:40:07] [INFO] [esper:#reddit-tennis] <stevejhgla> .gis shropshire cottages
+[2018-05-01][14:40:07] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) http://www.hoseasons.co.uk/images/ProductImages/UKCottagesV3/E2835-SHR_01.jpg
+[2018-05-01][14:40:07] [INFO] [esper:#reddit-tennis] <thebogbog> i wonder how many days the photographer had to sit there waiting for the sun to come out
+[2018-05-01][14:40:13] [INFO] [esper:#reddit-tennis] <stevejhgla> all of them
+[2018-05-01][14:40:28] [INFO] [esper:#reddit-tennis] <thebogbog> it was sunny when i was in norfolk in december
+[2018-05-01][14:40:32] [INFO] [esper:#reddit-tennis] <thebogbog> and everyone was saying how weird it was
+[2018-05-01][14:40:42] [INFO] [esper:#reddit-tennis] <thebogbog> "this is such a nice day" (34 and cloudy)
+[2018-05-01][14:40:42] [INFO] [esper:#reddit-tennis] <stevejhgla> .gis norfolk in december
+[2018-05-01][14:40:43] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) http://3.bp.blogspot.com/-L4Oc76r3lC8/TvNYMYDUiwI/AAAAAAAAKD4/jwCNufbtaIk/s1600/Norfolk-dip13.jpg
+[2018-05-01][14:40:52] [INFO] [esper:#reddit-tennis] <stevejhgla> looks great
+[2018-05-01][14:40:55] [INFO] [esper:#reddit-tennis] <stevejhgla> what a nice day
+[2018-05-01][14:40:59] [INFO] [esper:#reddit-tennis] <thebogbog> it was very pretty
+[2018-05-01][14:41:03] [INFO] [esper:#reddit-tennis] <stevejhgla> .gis norfolk island pine
+[2018-05-01][14:41:04] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) https://mobileimages.lowes.com/product/converted/091561/091561300609.jpg
+[2018-05-01][14:41:11] [INFO] [esper:#reddit-tennis] <stevejhgla> goat tree
+[2018-05-01][14:41:16] [INFO] [esper:#reddit-tennis] <stevejhgla> tallest tree in cayman i think
+[2018-05-01][14:41:17] [INFO] [esper:#reddit-tennis] <thebogbog> ...is that real?
+[2018-05-01][14:41:18] [INFO] [esper:#reddit-tennis] <stevejhgla> is one of those
+[2018-05-01][14:41:22] [INFO] [esper:#reddit-tennis] <stevejhgla> yeah
+[2018-05-01][14:41:37] [INFO] [esper:#reddit-tennis] <stevejhgla> endemic to norfolk island
+[2018-05-01][14:41:40] [INFO] [esper:#reddit-tennis] <stevejhgla> in the pacific
+[2018-05-01][14:41:47] [INFO] [esper:#reddit-tennis] <stevejhgla> it's too soft to use a boat building though
+[2018-05-01][14:41:57] [INFO] [esper:#reddit-tennis] <stevejhgla> which made norfolk island not very suitable for habitation back in the day
+[2018-05-01][14:42:51] [INFO] [esper:#reddit-tennis] <areascontrol> i killed a gorgeous one of those
+[2018-05-01][14:42:54] [INFO] [esper:#reddit-tennis] <stevejhgla> MURDERER
+[2018-05-01][14:43:04] [INFO] [esper:#reddit-tennis] <areascontrol> someone on craigs was giving it away bc it got too tall for their house
+[2018-05-01][14:43:12] [INFO] [esper:#reddit-tennis] <areascontrol> i've done okay w. them in the past
+[2018-05-01][14:43:19] [INFO] [esper:#reddit-tennis] <areascontrol> but in the past i didn't have a woodstove
+[2018-05-01][14:43:21] [INFO] [esper:#reddit-tennis] <stevejhgla> have they heard of something called
+[2018-05-01][14:43:23] [INFO] [esper:#reddit-tennis] <stevejhgla> "outside'
+[2018-05-01][14:43:30] [INFO] [esper:#reddit-tennis] <areascontrol> it was glorious 
+[2018-05-01][14:43:36] [INFO] [esper:#reddit-tennis] <areascontrol> they don't survive outside up here!
+[2018-05-01][14:43:40] [INFO] [esper:#reddit-tennis] <stevejhgla> fair point
+[2018-05-01][14:43:41] [INFO] [esper:#reddit-tennis] <hoglahoo> it was 100% an inside tree
+[2018-05-01][14:43:45] [INFO] [esper:#reddit-tennis] <stevejhgla> lol
+[2018-05-01][14:43:47] [INFO] [esper:#reddit-tennis] <ServeBot> ・゜゜・ ​ 。。・゜゜\_ó​< QUACK​!
+[2018-05-01][14:43:49] [INFO] [esper:#reddit-tennis] <areascontrol> dropped dead in a matter of weeks :(
+[2018-05-01][14:43:49] [INFO] [esper:#reddit-tennis] <stevejhgla> .bang
+[2018-05-01][14:43:50] [INFO] [esper:#reddit-tennis] <ServeBot> (stevejhgla) WTF!? Who are you Dick Cheney? You can try again in 7 seconds.
+[2018-05-01][14:43:54] [INFO] [esper:#reddit-tennis] <bananabanana> .bef
+[2018-05-01][14:43:54] [INFO] [esper:#reddit-tennis] <ServeBot> (bananabanana) The duck didn't want to be friends, maybe next time. You can try again in 7 seconds.
+[2018-05-01][14:43:54] [INFO] [esper:#reddit-tennis] <hoglahoo> haha
+[2018-05-01][14:43:54] [INFO] [esper:#reddit-tennis] <stevejhgla> s/tall/fat
+[2018-05-01][14:43:54] [INFO] [esper:#reddit-tennis] <ServeBot> Correction, <areascontrol> someone on craigs was giving it away bc it got too fat for their house
+[2018-05-01][14:43:56] [INFO] [esper:#reddit-tennis] <hoglahoo> .bef
+[2018-05-01][14:43:56] [INFO] [esper:#reddit-tennis] <ServeBot> hoglahoo you befriended a duck in 8.291 seconds! You have made friends with 24 ducks in #reddit-tennis.
+[2018-05-01][14:44:05] [INFO] [esper:#reddit-tennis] <areascontrol> i felt so badly bc the original owners loved it so much and were sad to see it go
+[2018-05-01][14:44:15] [INFO] [esper:#reddit-tennis] <stevejhgla> s/go/grow
+[2018-05-01][14:44:15] [INFO] [esper:#reddit-tennis] <ServeBot> Correction, <areascontrol> i felt so badly bc the original owners loved it so much and were sad to see it grow
+[2018-05-01][14:44:16] [INFO] [esper:#reddit-tennis] <areascontrol> they thought they gave it to a good home :(
+[2018-05-01][14:44:21] [INFO] [esper:#reddit-tennis] * areascontrol is a failure
+[2018-05-01][14:44:21] [INFO] [esper:#reddit-tennis] <hoglahoo> .gis hazelnut tree
+[2018-05-01][14:44:22] [INFO] [esper:#reddit-tennis] <ServeBot> (hoglahoo) http://static.panoramio.com/photos/large/22671677.jpg
+[2018-05-01][14:44:34] [INFO] [esper:#reddit-tennis] <stevejhgla> underwhelming image
+[2018-05-01][14:44:44] [INFO] [esper:#reddit-tennis] <hoglahoo> .gis hazelnut
+[2018-05-01][14:44:45] [INFO] [esper:#reddit-tennis] <ServeBot> (hoglahoo) http://www.howmanyarethere.net/wp-content/uploads/2014/01/13558140-hazelnuts-with-young-hazelnut-leaf-on-white.jpg
+[2018-05-01][14:44:50] [INFO] [esper:#reddit-tennis] <areascontrol> do you have one, hoglahoo ?
+[2018-05-01][14:44:54] [INFO] [esper:#reddit-tennis] <hoglahoo> no
+[2018-05-01][14:45:03] [INFO] [esper] -!- acemon has quit (Quit: Connection closed for inactivity)
+[2018-05-01][14:45:05] [INFO] [esper:#reddit-tennis] <hoglahoo> kingoftrex has a fat hazel though
+[2018-05-01][14:45:12] [INFO] [esper:#reddit-tennis] <areascontrol> i have one that's infertile
+[2018-05-01][14:45:23] [INFO] [esper:#reddit-tennis] <areascontrol> .gis harry lauder's walking stick
+[2018-05-01][14:45:23] [INFO] [esper:#reddit-tennis] <ServeBot> (areascontrol) http://www.thegardenhelper.com/psd/corylus_avellana.jpg
+[2018-05-01][14:45:30] [INFO] [esper:#reddit-tennis] <hoglahoo> spayed?
+[2018-05-01][14:45:40] [INFO] [esper:#reddit-tennis] <areascontrol> graft from a mutant in UK
+[2018-05-01][14:45:48] [INFO] [esper:#reddit-tennis] <hoglahoo> hmm
+[2018-05-01][14:45:53] [INFO] [esper:#reddit-tennis] <areascontrol> got it bc it looks awesome in the snow
+[2018-05-01][14:46:00] [INFO] [esper:#reddit-tennis] <hoglahoo> yeah I bet
+[2018-05-01][14:46:14] [INFO] [esper:#reddit-tennis] <areascontrol> i mean, mine's not grafted directly from the original
+[2018-05-01][14:46:17] [INFO] [esper:#reddit-tennis] <hoglahoo> looks like an old man
+[2018-05-01][14:46:20] [INFO] [esper:#reddit-tennis] <areascontrol> that started a long time ago
+[2018-05-01][14:46:26] [INFO] [esper:#reddit-tennis] <areascontrol> .g harry lauder
+[2018-05-01][14:46:28] [INFO] [esper:#reddit-tennis] <ServeBot> (areascontrol) https://en.m.wikipedia.org/wiki/Harry_Lauder -- Biography Early life. Lauder was born on 4 August 1870 in his maternal grandfather's house in Portobello,…
+[2018-05-01][14:46:41] [INFO] [esper:#reddit-tennis] <areascontrol> it's named for him bc he used a curvy walking stick
+[2018-05-01][14:47:05] [INFO] [esper:#reddit-tennis] <Cosmicjoker> blekginger, https://gyazo.com/a79897977e85df2d76780088a86f52af
+[2018-05-01][14:47:05] [INFO] [esper:#reddit-tennis] <ServeBot> Title: Screenshot - a79897977e85df2d76780088a86f52af - Gyazo
+[2018-05-01][14:47:10] [INFO] [esper:#reddit-tennis] <Cosmicjoker> Vaanir, ^
+[2018-05-01][14:47:26] [INFO] [esper:#reddit-tennis] <areascontrol> The Corkscrew Hazel ornamental cultivar of common hazel (Corylus avellana) is sometimes known as Harry Lauder's Walking Stick, in reference to the crooked walking stick Lauder often carried.
+[2018-05-01][14:47:32] [INFO] [esper] -!- tefilein has quit ()
+[2018-05-01][14:47:41] [INFO] [esper:#reddit-tennis] <areascontrol> i love plants w. cool stories
+[2018-05-01][14:48:09] [INFO] [esper:#reddit-tennis] <blekginger> lol what
+[2018-05-01][14:48:14] [INFO] [esper:#reddit-tennis] <blekginger> do they differ cosmic
+[2018-05-01][14:48:28] [INFO] [esper:#reddit-tennis] <Cosmicjoker> lol dont think so
+[2018-05-01][14:48:30] [INFO] [esper:#reddit-tennis] <hoglahoo> ironic that stories are often printed on trees
+[2018-05-01][14:48:32] [INFO] [esper:#reddit-tennis] <hoglahoo> plants*
+[2018-05-01][14:48:34] [INFO] [esper:#reddit-tennis] <Vaanir> ?stream
+[2018-05-01][14:48:34] [INFO] [esper:#reddit-tennis] <ServeBot> tinyurl.com/streamforalltennismatches
+[2018-05-01][14:48:37] [INFO] [esper:#reddit-tennis] <Cosmicjoker> game started so i dont wanna change
+[2018-05-01][14:51:44] [INFO] [esper:#reddit-tennis] -!- acemon [uid40189@gateway/web/irccloud.com/x-pxrtffgrigrcebhu] has joined
+[2018-05-01][14:55:28] [INFO] [esper:#reddit-tennis] <ServeBot> ・゜゜・ ​ 。。・゜゜\_​ö< Q​UACK!
+[2018-05-01][14:55:35] [INFO] [esper:#reddit-tennis] <bananabanana> .bef
+[2018-05-01][14:55:35] [INFO] [esper:#reddit-tennis] <ServeBot> bananabanana you befriended a duck in 6.793 seconds! You have made friends with 83 ducks in #reddit-tennis.
+[2018-05-01][14:59:03] [INFO] [esper:#reddit-tennis] -!- Ozzyboshi [~quassel@ip-49-176.sn1.clouditalia.com] has joined
+[2018-05-01][15:07:41] [INFO] [esper:#reddit-tennis] <jibbles27_> .bang
+[2018-05-01][15:07:41] [INFO] [esper:#reddit-tennis] -!- ServeBot has kicked jibbles27_ (There is no duck! What are you shooting at?)
+[2018-05-01][15:07:41] [INFO] [esper:#reddit-tennis] -!- jibbles27_ [~default@c-71-229-244-81.hsd1.co.comcast.net] has joined
+[2018-05-02][09:49:20] [WARNING] Bot received Signal Interrupt (2)
+[2018-05-02][09:49:20] [INFO] Stopping bot.
+[2018-05-02][09:49:20] [DEBUG] Stopping config reloader.
+[2018-05-02][09:49:20] [DEBUG] Stopping plugin reloader.
+[2018-05-02][09:49:20] [DEBUG] [esper] Closing connection.
+[2018-05-02][09:49:20] [INFO] [esper] >> QUIT :Killed (Received SIGINT 2)
+[2018-05-02][09:49:21] [DEBUG] Stopping logging engine
+[2018-05-02][09:49:24] [INFO] Starting CloudBot.
+[2018-05-02][09:49:24] [DEBUG] Config loaded from file.
+[2018-05-02][09:49:24] [DEBUG] Config system initialised.
+[2018-05-02][09:49:24] [DEBUG] Database system initialised.
+[2018-05-02][09:49:24] [DEBUG] Bot setup completed.
+[2018-05-02][09:49:24] [INFO] [esper|permissions] Created permission manager for esper.
+[2018-05-02][09:49:24] [INFO] [esper|permissions] Reloading permissions for esper.
+[2018-05-02][09:49:24] [DEBUG] [esper|permissions] Group permissions: {'admins': ['addfactoid', 'delfactoid', 'ignore', 'botcontrol', 'plpaste', 'permissions_users', 'op'], 'moderators': ['addfactoid', 'delfactoid', 'ignore']}
+[2018-05-02][09:49:24] [DEBUG] [esper|permissions] Group users: {'admins': ['examplea!user@example.com', 'exampleb!user@example.com'], 'moderators': ['examplec!user@example.com']}
+[2018-05-02][09:49:24] [DEBUG] [esper|permissions] Permission users: {'addfactoid': ['examplea!user@example.com', 'exampleb!user@example.com', 'examplec!user@example.com'], 'delfactoid': ['examplea!user@example.com', 'exampleb!user@example.com', 'examplec!user@example.com'], 'ignore': ['examplea!user@example.com', 'exampleb!user@example.com', 'examplec!user@example.com'], 'botcontrol': ['examplea!user@example.com', 'exampleb!user@example.com'], 'plpaste': ['examplea!user@example.com', 'exampleb!user@example.com'], 'permissions_users': ['examplea!user@example.com', 'exampleb!user@example.com'], 'op': ['examplea!user@example.com', 'exampleb!user@example.com']}
+[2018-05-02][09:49:24] [DEBUG] [esper] Created connection.
+[2018-05-02][09:49:24] [INFO] Registering tables for regex_chans
+[2018-05-02][09:49:24] [INFO] Loaded command tv/tv_next from tvdb.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: tv, aliases: ['tv_next'], type: command, plugin: tvdb, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command tv_prev/tv_last from tvdb.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: tv_prev, aliases: ['tv_last'], type: command, plugin: tvdb, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Registering tables for notes
+[2018-05-02][09:49:24] [INFO] Loaded command groups/listgroups/permgroups from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: groups, aliases: ['listgroups', 'permgroups'], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command gperms from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: gperms, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command gusers from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: gusers, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command uperms from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: uperms, aliases: [], type: command, plugin: admin_bot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command ugroups from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: ugroups, aliases: [], type: command, plugin: admin_bot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command deluser from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: deluser, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command adduser from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: adduser, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command stop/quit from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: stop, aliases: ['quit'], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: False]
+[2018-05-02][09:49:24] [INFO] Loaded command restart from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: restart, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: False]
+[2018-05-02][09:49:24] [INFO] Loaded command join from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: join, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command part from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: part, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command cycle from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: cycle, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command nick from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: nick, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command raw from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: raw, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command say from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: say, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command message/sayto from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: message, aliases: ['sayto'], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command me/act from admin_bot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: me, aliases: ['act'], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Registering tables for ignore
+[2018-05-02][09:49:24] [INFO] Loaded command plpaste from plpaste.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: plpaste, aliases: [], type: command, plugin: plpaste, permissions: ['plpaste'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw init_tasks (004) from core_sieve.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: core_sieve, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded sieve sieve_suite from core_sieve.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Sieve[type: sieve, plugin: core_sieve, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command flip from flip.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: flip, aliases: [], type: command, plugin: flip, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command table from flip.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: table, aliases: [], type: command, plugin: flip, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Registering tables for karma
+[2018-05-02][09:49:24] [INFO] Loaded command ask from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: ask, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command predict from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: predict, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command taco from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: taco, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command potato from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: potato, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command sandwich from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: sandwich, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command pizza from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: pizza, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command sleek from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: sleek, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command nanners from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: nanners, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command world from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: world, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw nick_compliment (NICK) from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['NICK'], type: irc_raw, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded regex hi_hook from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Regex[regexes: [^[Hh][Ii] botbot_the(!|\?|\.| *)?$], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded regex hi_tofu from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Regex[regexes: [\W*([Tt]ofu)\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded regex writing_letter from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Regex[regexes: [(Dear)\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded regex get_rekt from chatbot.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Regex[regexes: [\W*([Rr][Ee][Kk][Tt])\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command liverank from liverank.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: liverank, aliases: [], type: command, plugin: liverank, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command rank from liverank.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: rank, aliases: [], type: command, plugin: liverank, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw on_kick (KICK) from core_tracker.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['KICK'], type: irc_raw, plugin: core_tracker, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw on_nick (NICK) from core_tracker.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['NICK'], type: irc_raw, plugin: core_tracker, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw on_join (PART) from core_tracker.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['PART'], type: irc_raw, plugin: core_tracker, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command about from system.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: about, aliases: [], type: command, plugin: system, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command system from system.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: system, aliases: [], type: command, plugin: system, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command recipe from recipe.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: recipe, aliases: [], type: command, plugin: recipe, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command dinner/wtfsimfd from recipe.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: dinner, aliases: ['wtfsimfd'], type: command, plugin: recipe, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw invite (INVITE) from core_misc.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['INVITE'], type: irc_raw, plugin: core_misc, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw onjoin (004) from core_misc.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: core_misc, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw keep_alive (004) from core_misc.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: core_misc, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][09:49:24] [INFO] Loaded command password from password.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: password, aliases: [], type: command, plugin: password, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command wpass/wordpass/wordpassword from password.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: wpass, aliases: ['wordpass', 'wordpassword'], type: command, plugin: password, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded event ctcp_version (EventType.other) from core_ctcp.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Event[types: [<EventType.other: 6>], type: event, plugin: core_ctcp, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded event ctcp_ping (EventType.other) from core_ctcp.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Event[types: [<EventType.other: 6>], type: event, plugin: core_ctcp, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded event ctcp_time (EventType.other) from core_ctcp.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Event[types: [<EventType.other: 6>], type: event, plugin: core_ctcp, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command kernel from linux.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: kernel, aliases: [], type: command, plugin: linux, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command down/up/offline from pagecheck.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: down, aliases: ['up', 'offline'], type: command, plugin: pagecheck, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command isup from pagecheck.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: isup, aliases: [], type: command, plugin: pagecheck, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command help from help.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: help, aliases: [], type: command, plugin: help, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command flushlog from log.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: flushlog, aliases: [], type: command, plugin: log, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw log_raw (*) from log.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['*'], type: irc_raw, plugin: log, permissions: [], single_thread: True, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw log (*) from log.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['*'], type: irc_raw, plugin: log, permissions: [], single_thread: True, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded irc raw console_log (*) from log.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Raw[triggers: ['*'], type: irc_raw, plugin: log, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command supperscript from utility.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: supperscript, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command wuote from utility.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: wuote, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command bnag from utility.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: bnag, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command bfe from utility.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: bfe, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command bagn from utility.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: bagn, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command ebf from utility.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: ebf, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command ban from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: ban, aliases: [], type: command, plugin: admin_channel, permissions: ['op_ban', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command unban from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: unban, aliases: [], type: command, plugin: admin_channel, permissions: ['op_ban', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command quiet from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: quiet, aliases: [], type: command, plugin: admin_channel, permissions: ['op_quiet', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command unquiet from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: unquiet, aliases: [], type: command, plugin: admin_channel, permissions: ['op_quiet', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command voice from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: voice, aliases: [], type: command, plugin: admin_channel, permissions: ['op_voice', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command devoice from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: devoice, aliases: [], type: command, plugin: admin_channel, permissions: ['op_voice', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command op from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: op, aliases: [], type: command, plugin: admin_channel, permissions: ['op_op', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command deop from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: deop, aliases: [], type: command, plugin: admin_channel, permissions: ['op_op', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command topic from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: topic, aliases: [], type: command, plugin: admin_channel, permissions: ['op_topic', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command kick from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: kick, aliases: [], type: command, plugin: admin_channel, permissions: ['op_kick', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command remove from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: remove, aliases: [], type: command, plugin: admin_channel, permissions: ['op_rem', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command mute from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: mute, aliases: [], type: command, plugin: admin_channel, permissions: ['op_mute', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command unmute from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: unmute, aliases: [], type: command, plugin: admin_channel, permissions: ['op_mute', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command lock from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: lock, aliases: [], type: command, plugin: admin_channel, permissions: ['op_lock', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command unlock from admin_channel.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: unlock, aliases: [], type: command, plugin: admin_channel, permissions: ['op_lock', 'op'], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Registering tables for remind
+[2018-05-02][09:49:24] [INFO] Loaded command roll/dice from gaming.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: roll, aliases: ['dice'], type: command, plugin: gaming, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command choose from gaming.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: choose, aliases: [], type: command, plugin: gaming, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:24] [INFO] Loaded command coin from gaming.py
+[2018-05-02][09:49:24] [DEBUG] Loaded Command[name: coin, aliases: [], type: command, plugin: gaming, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded irc raw on_connect (004) from cap.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: cap, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][09:49:25] [INFO] Loaded irc raw on_cap (CAP) from cap.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Raw[triggers: ['CAP'], type: irc_raw, plugin: cap, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command ping from ping.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: ping, aliases: [], type: command, plugin: ping, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command note/notes/todo from notes.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: note, aliases: ['notes', 'todo'], type: command, plugin: notes, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command time from time_plugin.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: time, aliases: [], type: command, plugin: time_plugin, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command beats from time_plugin.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: beats, aliases: [], type: command, plugin: time_plugin, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command karma/k from karma.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: karma, aliases: ['k'], type: command, plugin: karma, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command loved from karma.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: loved, aliases: [], type: command, plugin: karma, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded regex karma_add from karma.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Regex[regexes: [^([a-z0-9_\-\[\]\^{}|`]{3,})(\+\+|\-\-)$], type: regex, plugin: karma, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command veganpotato from foods.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: veganpotato, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command vegansandwich from foods.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: vegansandwich, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command buddhabowl from foods.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: buddhabowl, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command vegantaco from foods.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: vegantaco, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command veganpizza from foods.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: veganpizza, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command sundae from foods.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: sundae, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command burger from foods.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: burger, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command octopart/octo from octopart.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: octopart, aliases: ['octo'], type: command, plugin: octopart, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command locate/maps from locate.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: locate, aliases: ['maps'], type: command, plugin: locate, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command threaddump from profiling.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: threaddump, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command objtypes from profiling.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: objtypes, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command objgrowth from profiling.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: objgrowth, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command pymsummary from profiling.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: pymsummary, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command pymdiff from profiling.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: pymdiff, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command enableregex from regex_chans.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: enableregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command disableregex from regex_chans.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: disableregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command resetregex from regex_chans.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: resetregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command regexstatus from regex_chans.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: regexstatus, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command listregex from regex_chans.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: listregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded sieve sieve_regex from regex_chans.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Sieve[type: sieve, plugin: regex_chans, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command ignore from ignore.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: ignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command unignore from ignore.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: unignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command global_ignore from ignore.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: global_ignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded command global_unignore from ignore.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: global_unignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded sieve ignore_sieve from ignore.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Sieve[type: sieve, plugin: ignore, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][09:49:25] [INFO] Loaded periodic hook (30 seconds) check_reminders from remind.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Periodic[interval: [30], type: periodic, plugin: remind, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][09:49:25] [INFO] Loaded command remind/reminder from remind.py
+[2018-05-02][09:49:25] [DEBUG] Loaded Command[name: remind, aliases: ['reminder'], type: command, plugin: remind, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][09:49:25] [INFO] [esper] Connecting
+[2018-05-02][09:49:25] [INFO] [esper] >> NICK :botbot_the
+[2018-05-02][09:49:25] [INFO] [esper] >> USER cloudbot 3 * :CloudBot - https://git.io/CloudBot
+[2018-05-02][09:49:25] [INFO] [esper:*] -orwell.freenode.net- *** Looking up your hostname...
+[2018-05-02][09:49:25] [INFO] [esper:*] -orwell.freenode.net- *** Checking Ident
+[2018-05-02][09:49:25] [INFO] [esper:*] -orwell.freenode.net- *** Found your hostname
+[2018-05-02][09:49:33] [INFO] [esper:*] -orwell.freenode.net- *** No Ident response
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 001 botbot_the :Welcome to the freenode Internet Relay Chat Network botbot_the
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 002 botbot_the :Your host is orwell.freenode.net[185.30.166.38/6667], running version ircd-seven-1.1.4
+[2018-05-02][09:49:33] [INFO] [esper|misc] Bot is sending join commands for network.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 003 botbot_the :This server was created Sat Jan 7 2017 at 12:04:42 EST
+[2018-05-02][09:49:33] [INFO] [esper|sieve] Bot is starting ratelimiter cleanup task.
+[2018-05-02][09:49:33] [INFO] [esper|misc] Bot is joining channels for network.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 004 botbot_the orwell.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 005 botbot_the CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 005 botbot_the CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 005 botbot_the SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 252 botbot_the 27 :IRC Operators online
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 251 botbot_the :There are 118 users and 93745 invisible on 34 servers
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 253 botbot_the 26 :unknown connection(s)
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 254 botbot_the 52847 :channels formed
+[2018-05-02][09:49:33] [INFO] [esper] >> JOIN #reddit-tennis-dev
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 255 botbot_the :I have 4897 clients and 1 servers
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- accept our policies and guidelines as set out on https://freenode.net
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 265 botbot_the 4897 6943 :Current local users 4897, max 6943
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- his life.  Orwell is perhaps best known for his novels
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- e-mail to complaints@freenode.net -- we will do our best to address the
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 250 botbot_the :Highest connection count: 6944 (6943 clients) (5597584 connections received)
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Nineteen Eighty-Four and Animal Farm.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 375 botbot_the :- orwell.freenode.net Message of the Day - 
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Welcome to orwell.freenode.net in Amsterdam, NL.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Thanks to http://www.hyperfilter.com/ for sponsoring
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- this server!
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Welcome to freenode - supporting the free and open source
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- moved him to England when he was one year old, and it
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- was in England where he was educated and spent most of
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- software communities since 1998.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- In the event that you observe behaviour that contravenes our policies,
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 266 botbot_the 93863 97718 :Current global users 93863, max 97718
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- By connecting to freenode you indicate that you have read and
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- please notify a volunteer staff member via private message, or send us an
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- situation within a reasonable period of time, and we may request further
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- information or, as appropriate, involve other parties such as channel operators 
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Group Contacts representing an on-topic group.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- freenode runs an open proxy scanner.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- If you are looking for assistance, you will be able to find a list of
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- volunteer staff using the '/who freenode/staff/*' command, and you may
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- message any of us at any time. Please note that freenode predominantly
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- provides assistance via private message, and while we have a network
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- channel the primary venue for support requests is via private message to
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- a member of the volunteer staff team.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- From time to time, volunteer staff may send server-wide notices relating to
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- the project, or the communities that we host. The majority of such notices
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- do not miss them. Important messages relating to the freenode project, including
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- notices of upcoming maintenance and other scheduled downtime will be issued as
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- global notices.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Representing an on-topic project? Don't forget to register, more information
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Thank you for using freenode!
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- can be found on the https://freenode.net website under "Group Registration".
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 376 botbot_the :End of /MOTD command.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- freenode organises an annual conference, and we would like to extend our
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+[2018-05-02][09:49:33] [INFO] [esper:nickserv] -NickServ- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- you are interested in sponsoring this event, please send an e-mail to
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+[2018-05-02][09:49:33] [INFO] [esper:botbot_the] -!- mode/botbot_the [:+i] by botbot_the
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :-  
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- Thank you also to our server sponsors for the sustained support in keeping the
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- network going for close to two decades.
+[2018-05-02][09:49:33] [INFO] [esper] :orwell.freenode.net 372 botbot_the :- sponsor@freenode.live
+[2018-05-02][09:49:33] [INFO] [esper] >> JOIN #reddit-tennis-cooking
+[2018-05-02][09:49:34] [INFO] [esper] >> JOIN #reddit-tennis
+[2018-05-02][09:49:34] [INFO] [esper|misc] Bot has finished sending join commands for network.
+[2018-05-02][09:49:36] [INFO] [esper] >> CAP LS
+[2018-05-02][09:49:39] [INFO] [esper:#reddit-tennis-dev] -!- botbot_the [~cloudbot@96-83-120-66-static.hfc.comcastbusiness.net] has joined
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 332 botbot_the #reddit-tennis-dev :updated 2/27/2018 - Cloudbot: https://pastebin.com/BzTa8LKg
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 333 botbot_the #reddit-tennis-dev kingoftrex!~kingoftre@unaffiliated/kingoftrex 1519750910
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 353 botbot_the @ #reddit-tennis-dev :botbot_the kingoftrex stevejhgla thebogbog lowhope botlahoo Vaanir ServeBot
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 366 botbot_the #reddit-tennis-dev :End of /NAMES list.
+[2018-05-02][09:49:39] [INFO] [esper:#reddit-tennis-cooking] -!- botbot_the [~cloudbot@96-83-120-66-static.hfc.comcastbusiness.net] has joined
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 332 botbot_the #reddit-tennis-cooking :a starch extracted from cassava root; it is devoid of nutrition and low in food energy; in developed countries, it is used as a thickening agent in various manufactured foods
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 333 botbot_the #reddit-tennis-cooking thebogbog!uid114333@gateway/web/irccloud.com/x-taoserfcczjggeyi 1523237416
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 353 botbot_the = #reddit-tennis-cooking :botbot_the bananabanana stevejhgla thebogbog hoglahoo lowhope
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 366 botbot_the #reddit-tennis-cooking :End of /NAMES list.
+[2018-05-02][09:49:39] [INFO] [esper:#reddit-tennis] -!- botbot_the [~cloudbot@96-83-120-66-static.hfc.comcastbusiness.net] has joined
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 332 botbot_the #reddit-tennis :This week in tennis: WTA: Prague & Rabat (280s); ATP: Munich, Istanbul & Estoril (250s) | Commands: ?stream .help .discord .brackets .tennis
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 333 botbot_the #reddit-tennis blekginger!~Gunnar@unaffiliated/blekginger 1525087104
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 353 botbot_the = #reddit-tennis :botbot_the +stevejhgla +kingoftrex jussylam bananabanana +thebogbog +merokoyui Ozzyboshi radiofree tefilein baraba JanC hoglahoo iclon ovah snee Cosmicjoker mcbot stonelore Ikoru theglass mayorga lowhope cottongin Ald0 dihuteno_ botlahoo Abortion Silkroad areascontrol dagobert___ rajvasa [CAN] Ruhan justache Vaanir peaches m4rCsi_ TCapsYear @ServeBot skiff shodan45 bayleaf acidtech Snuupy
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net 366 botbot_the #reddit-tennis :End of /NAMES list.
+[2018-05-02][09:49:39] [INFO] [esper] :orwell.freenode.net CAP botbot_the LS :account-notify extended-join identify-msg multi-prefix sasl
+[2018-05-02][09:49:39] [INFO] [esper] >> CAP LIST
+[2018-05-02][09:49:39] [INFO] [esper:chanserv] -ChanServ- [#reddit-tennis] Welcome to #reddit-tennis. Visit us on the Interwebs at http://tennis.reddit.com . This channel is usually most active during matches, so be sure to join us then!
+[2018-05-02][09:49:39] [INFO] [esper] :services. 328 botbot_the #reddit-tennis :http://tennis.reddit.com
+[2018-05-02][09:49:40] [INFO] [esper] :orwell.freenode.net CAP botbot_the LIST :
+[2018-05-02][09:49:40] [INFO] [esper:#reddit-tennis] <jussylam> bananabanana where are you from '
+[2018-05-02][09:49:40] [INFO] [esper] >> CAP REQ :extended-join account-notify multi-prefix
+[2018-05-02][09:49:40] [INFO] [esper] :orwell.freenode.net CAP botbot_the ACK :extended-join account-notify multi-prefix 
+[2018-05-02][09:49:40] [INFO] [esper|CAP] Successfully negotiated for: {'extended-join', 'account-notify', 'multi-prefix'}
+[2018-05-02][09:49:40] [INFO] [esper] >> CAP END
+[2018-05-02][09:50:01] [INFO] [esper:#reddit-tennis] <bananabanana> long island ny
+[2018-05-02][09:50:20] [INFO] [esper:#reddit-tennis] <jussylam> ah that's pretty dopee bananabanana 
+[2018-05-02][09:50:28] [INFO] [esper:#reddit-tennis] <bananabanana> where in Australia you at? 
+[2018-05-02][09:51:20] [INFO] [esper:#reddit-tennis] <jussylam> syd 
+[2018-05-02][09:51:33] [INFO] [esper:#reddit-tennis] <jussylam> i feel like i'm the only aussie guy here ;p 
+[2018-05-02][09:51:47] [INFO] [esper:#reddit-tennis] <bananabanana> nice
+[2018-05-02][09:52:53] [INFO] [esper:#reddit-tennis] <thebogbog> maybe more of you are here but it's at opposite times of day from us
+[2018-05-02][09:53:09] [INFO] [esper:#reddit-tennis] <thebogbog> i'm pretty much sleeping the whole time australians are at work i think
+[2018-05-02][09:53:41] [INFO] [esper:#reddit-tennis] <jussylam> but we watched tennis together thebogbog 
+[2018-05-02][09:53:50] [INFO] [esper:#reddit-tennis] <jussylam> which was pretty cool 
+[2018-05-02][09:53:54] [INFO] [esper:#reddit-tennis] <thebogbog> ya while i was in sg gurl
+[2018-05-02][09:54:31] [INFO] [esper:#reddit-tennis] <areascontrol> jussylam: are you the person that got married in NZ?
+[2018-05-02][09:54:39] [INFO] [esper:#reddit-tennis] <merokoyui> lol no areas omg
+[2018-05-02][09:54:39] [INFO] [esper:#reddit-tennis] <jussylam> damn Laura retired
+[2018-05-02][09:54:40] [INFO] [esper:#reddit-tennis] <merokoyui> XD
+[2018-05-02][09:54:53] [INFO] [esper:#reddit-tennis] <merokoyui> i think that was languishanguish
+[2018-05-02][09:54:56] [INFO] [esper:#reddit-tennis] <merokoyui> something
+[2018-05-02][09:55:00] [INFO] [esper:#reddit-tennis] <areascontrol> ah yeah ty
+[2018-05-02][09:55:06] [INFO] [esper:#reddit-tennis] <areascontrol> old brain is old
+[2018-05-02][09:55:17] [INFO] [esper:#reddit-tennis] <merokoyui> jussy is a kid in uni
+[2018-05-02][09:55:21] [INFO] [esper:#reddit-tennis] <areascontrol> how come everyone knows jussylam but me?
+[2018-05-02][09:55:22] [INFO] [esper:#reddit-tennis] <merokoyui> like beansy
+[2018-05-02][09:55:43] [INFO] [esper:#reddit-tennis] <jussylam> if i changed my name to ham and cheese... will you guys notice me 
+[2018-05-02][09:55:55] [INFO] [esper:#reddit-tennis] <jussylam> please answer area's question merokoyui 
+[2018-05-02][09:55:58] [INFO] [esper:#reddit-tennis] <jussylam> thanks :) 
+[2018-05-02][09:56:14] [INFO] [esper:#reddit-tennis] <merokoyui> im not sure areas
+[2018-05-02][09:56:20] [INFO] [esper:#reddit-tennis] -!- mefistofeles [~mefistofe@unaffiliated/mefistofeles] has joined
+[2018-05-02][09:56:23] [INFO] [esper:#reddit-tennis] <merokoyui> maybe you didnt talk that much
+[2018-05-02][09:56:30] [INFO] [esper:#reddit-tennis] <merokoyui> jussylam is in and out cause he studies 
+[2018-05-02][09:56:33] [INFO] [esper:#reddit-tennis-dev] -!- kingoftrex_ [~kingoftre@unaffiliated/kingoftrex] has joined
+[2018-05-02][09:56:33] [INFO] [esper:#reddit-tennis] -!- kingoftrex_ [~kingoftre@unaffiliated/kingoftrex] has joined
+[2018-05-02][09:56:33] [INFO] [esper:#reddit-tennis] -!- mode/#reddit-tennis [+v kingoftrex_] by ChanServ
+[2018-05-02][09:56:34] [INFO] [esper:#reddit-tennis] <merokoyui> most of the time
+[2018-05-02][09:56:52] [INFO] [esper:#reddit-tennis] <Vaanir> oh yeah LanguishAnguish
+[2018-05-02][09:56:55] [INFO] [esper:#reddit-tennis] <jussylam> most active time probs gonna be ao and world tour finals :) 
+[2018-05-02][09:56:56] [INFO] [esper] -!- kingoftrex has quit (Disconnected by services)
+[2018-05-02][09:56:58] [INFO] [esper] kingoftrex_ is now known as kingoftrex
+[2018-05-02][09:57:12] [INFO] [esper:#reddit-tennis] <merokoyui> or was it AnguishLanguish
+[2018-05-02][10:00:39] [INFO] [esper:#reddit-tennis] <thebogbog> the latter
+[2018-05-02][10:02:14] [INFO] [esper:#reddit-tennis] <merokoyui> ok my brain mixed it up
+[2018-05-02][10:02:19] [INFO] [esper:#reddit-tennis] <merokoyui> thanks for the clarity bog
+[2018-05-02][10:03:54] [INFO] [esper:#reddit-tennis] <Vaanir> .seen *anguish
+[2018-05-02][10:03:54] [INFO] [esper:#reddit-tennis] <ServeBot> (Vaanir) I've never seen *anguish talking in this channel.
+[2018-05-02][10:04:01] [INFO] [esper:#reddit-tennis] <merokoyui> lol
+[2018-05-02][10:04:02] [INFO] [esper:#reddit-tennis] <Vaanir> probably predates the bot
+[2018-05-02][10:04:08] [INFO] [esper:#reddit-tennis] <merokoyui> i believe it's anguish
+[2018-05-02][10:04:44] [INFO] [esper:#reddit-tennis] -!- Ash- [~AshSky|NO@unaffiliated/ashskyno/x-3946560] has joined
+[2018-05-02][10:05:53] [INFO] [esper:#reddit-tennis] <Vaanir> aw >/home/znc/.znc/moddata/log/vaanir/freenode/#reddit-tennis/2016-06-17.log:[11:21:42] <AnguishLanguish> Vaanir: did i tell you that they think I have a  <redacted>?
+[2018-05-02][10:07:46] [INFO] [esper:#reddit-tennis] <merokoyui> awww
+[2018-05-02][10:07:52] [INFO] [esper:#reddit-tennis] <merokoyui> how was españa, Vaanir 
+[2018-05-02][10:08:16] [INFO] [esper:#reddit-tennis] <Vaanir> Still tired from it
+[2018-05-02][10:08:27] [INFO] [esper:#reddit-tennis] <merokoyui> awww
+[2018-05-02][10:08:34] [INFO] [esper:#reddit-tennis] <merokoyui> that was a quick trip no?
+[2018-05-02][10:08:43] [INFO] [esper:#reddit-tennis] * merokoyui fixes Vaanir's hair
+[2018-05-02][10:08:45] [INFO] [esper:#reddit-tennis] <Vaanir> Late nights..
+[2018-05-02][10:08:48] [INFO] [esper:#reddit-tennis] <merokoyui> ahaha
+[2018-05-02][10:08:50] [INFO] [esper:#reddit-tennis] <merokoyui> very u!
+[2018-05-02][10:08:56] [INFO] [esper:#reddit-tennis] <merokoyui> :P
+[2018-05-02][10:08:59] [INFO] [esper:#reddit-tennis] <mefistofeles> hola merokoyui 
+[2018-05-02][10:09:03] [INFO] [esper:#reddit-tennis] <merokoyui> hola mefistofeles 
+[2018-05-02][10:09:05] [INFO] [esper:#reddit-tennis] <Vaanir> And I got woken up half 7 the morning I got back
+[2018-05-02][10:09:14] [INFO] [esper:#reddit-tennis] <Vaanir> got back into my own bed at 4 ish
+[2018-05-02][10:09:40] [INFO] [esper:#reddit-tennis] <merokoyui> lol r/ekt
+[2018-05-02][10:09:46] [INFO] [esper:#reddit-tennis] <merokoyui> when u aging
+[2018-05-02][10:10:05] [INFO] [esper:#reddit-tennis] -!- mcpro [uid172794@gateway/web/irccloud.com/x-sgajbqwgvffkooxa] has joined
+[2018-05-02][10:10:07] [INFO] [esper:#reddit-tennis-cooking] -!- mcpro [uid172794@gateway/web/irccloud.com/x-sgajbqwgvffkooxa] has joined
+[2018-05-02][10:10:26] [INFO] [esper:#reddit-tennis-cooking] <mcpro> Just made a garlic bread with some more of that pizza dough
+[2018-05-02][10:10:37] [INFO] [esper:#reddit-tennis-cooking] <mcpro> https://usercontent.irccloud-cdn.com/file/dzduWsVo/IMG_20180502_150942.jpg
+[2018-05-02][10:15:07] [INFO] [esper:#reddit-tennis-cooking] <bananabanana> nice mcpro
+[2018-05-02][10:15:14] [INFO] [esper:#reddit-tennis-cooking] <mcpro> Ty
+[2018-05-02][10:15:28] [INFO] [esper:#reddit-tennis-cooking] <bananabanana> is that like leftover dough after making a pizza?
+[2018-05-02][10:15:31] [INFO] [esper:#reddit-tennis-cooking] <mcpro> The dough has come out much better with this batch than it has done in previous makings
+[2018-05-02][10:44:07] [WARNING] Bot received Signal Interrupt (2)
+[2018-05-02][10:44:07] [INFO] Stopping bot.
+[2018-05-02][10:44:07] [DEBUG] Stopping config reloader.
+[2018-05-02][10:44:07] [DEBUG] Stopping plugin reloader.
+[2018-05-02][10:44:07] [DEBUG] [esper] Closing connection.
+[2018-05-02][10:44:07] [INFO] [esper] >> QUIT :Killed (Received SIGINT 2)
+[2018-05-02][10:44:07] [ERROR] [esper] Connection lost: [Errno 54] Connection reset by peer
+[2018-05-02][10:44:08] [DEBUG] Stopping logging engine
+[2018-05-02][10:44:10] [INFO] Starting CloudBot.
+[2018-05-02][10:44:10] [DEBUG] Config loaded from file.
+[2018-05-02][10:44:10] [DEBUG] Config system initialised.
+[2018-05-02][10:44:10] [DEBUG] Database system initialised.
+[2018-05-02][10:44:10] [DEBUG] Bot setup completed.
+[2018-05-02][10:44:10] [INFO] [esper|permissions] Created permission manager for esper.
+[2018-05-02][10:44:10] [INFO] [esper|permissions] Reloading permissions for esper.
+[2018-05-02][10:44:10] [DEBUG] [esper|permissions] Group permissions: {'admins': ['addfactoid', 'delfactoid', 'ignore', 'botcontrol', 'plpaste', 'permissions_users', 'op'], 'moderators': ['addfactoid', 'delfactoid', 'ignore']}
+[2018-05-02][10:44:10] [DEBUG] [esper|permissions] Group users: {'admins': ['examplea!user@example.com', 'exampleb!user@example.com'], 'moderators': ['examplec!user@example.com']}
+[2018-05-02][10:44:10] [DEBUG] [esper|permissions] Permission users: {'addfactoid': ['examplea!user@example.com', 'exampleb!user@example.com', 'examplec!user@example.com'], 'delfactoid': ['examplea!user@example.com', 'exampleb!user@example.com', 'examplec!user@example.com'], 'ignore': ['examplea!user@example.com', 'exampleb!user@example.com', 'examplec!user@example.com'], 'botcontrol': ['examplea!user@example.com', 'exampleb!user@example.com'], 'plpaste': ['examplea!user@example.com', 'exampleb!user@example.com'], 'permissions_users': ['examplea!user@example.com', 'exampleb!user@example.com'], 'op': ['examplea!user@example.com', 'exampleb!user@example.com']}
+[2018-05-02][10:44:10] [DEBUG] [esper] Created connection.
+[2018-05-02][10:44:10] [INFO] Registering tables for regex_chans
+[2018-05-02][10:44:10] [INFO] Loaded command tv/tv_next from tvdb.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: tv, aliases: ['tv_next'], type: command, plugin: tvdb, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command tv_prev/tv_last from tvdb.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: tv_prev, aliases: ['tv_last'], type: command, plugin: tvdb, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Registering tables for notes
+[2018-05-02][10:44:10] [INFO] Loaded command groups/permgroups/listgroups from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: groups, aliases: ['permgroups', 'listgroups'], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command gperms from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: gperms, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command gusers from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: gusers, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command uperms from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: uperms, aliases: [], type: command, plugin: admin_bot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command ugroups from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: ugroups, aliases: [], type: command, plugin: admin_bot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command deluser from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: deluser, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command adduser from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: adduser, aliases: [], type: command, plugin: admin_bot, permissions: ['permissions_users'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command stop/quit from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: stop, aliases: ['quit'], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: False]
+[2018-05-02][10:44:10] [INFO] Loaded command restart from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: restart, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: False]
+[2018-05-02][10:44:10] [INFO] Loaded command join from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: join, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command part from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: part, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command cycle from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: cycle, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command nick from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: nick, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command raw from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: raw, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command say from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: say, aliases: [], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command message/sayto from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: message, aliases: ['sayto'], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command me/act from admin_bot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: me, aliases: ['act'], type: command, plugin: admin_bot, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Registering tables for ignore
+[2018-05-02][10:44:10] [INFO] Loaded command plpaste from plpaste.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: plpaste, aliases: [], type: command, plugin: plpaste, permissions: ['plpaste'], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded irc raw init_tasks (004) from core_sieve.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: core_sieve, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded sieve sieve_suite from core_sieve.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Sieve[type: sieve, plugin: core_sieve, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command flip from flip.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: flip, aliases: [], type: command, plugin: flip, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command table from flip.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: table, aliases: [], type: command, plugin: flip, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Registering tables for karma
+[2018-05-02][10:44:10] [INFO] Loaded command ask from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: ask, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command predict from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: predict, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command taco from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: taco, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command potato from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: potato, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command sandwich from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: sandwich, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command pizza from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: pizza, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command sleek from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: sleek, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command nanners from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: nanners, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command world from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: world, aliases: [], type: command, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded irc raw nick_compliment (NICK) from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Raw[triggers: ['NICK'], type: irc_raw, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded regex hi_hook from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Regex[regexes: [^[Hh][Ii] botbot_the(!|\?|\.| *)?$], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded regex hi_tofu from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Regex[regexes: [\W*([Tt]ofu)\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded regex writing_letter from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Regex[regexes: [(Dear)\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded regex get_rekt from chatbot.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Regex[regexes: [\W*([Rr][Ee][Kk][Tt])\W*], type: regex, plugin: chatbot, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command liverank from liverank.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: liverank, aliases: [], type: command, plugin: liverank, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded command rank from liverank.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Command[name: rank, aliases: [], type: command, plugin: liverank, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded irc raw on_kick (KICK) from core_tracker.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Raw[triggers: ['KICK'], type: irc_raw, plugin: core_tracker, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded irc raw on_nick (NICK) from core_tracker.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Raw[triggers: ['NICK'], type: irc_raw, plugin: core_tracker, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:10] [INFO] Loaded irc raw on_join (PART) from core_tracker.py
+[2018-05-02][10:44:10] [DEBUG] Loaded Raw[triggers: ['PART'], type: irc_raw, plugin: core_tracker, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command about from system.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: about, aliases: [], type: command, plugin: system, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command system from system.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: system, aliases: [], type: command, plugin: system, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command recipe from recipe.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: recipe, aliases: [], type: command, plugin: recipe, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command dinner/wtfsimfd from recipe.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: dinner, aliases: ['wtfsimfd'], type: command, plugin: recipe, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded irc raw invite (INVITE) from core_misc.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Raw[triggers: ['INVITE'], type: irc_raw, plugin: core_misc, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded irc raw onjoin (004) from core_misc.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: core_misc, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][10:44:11] [INFO] Loaded irc raw keep_alive (004) from core_misc.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: core_misc, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][10:44:11] [INFO] Loaded command password from password.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: password, aliases: [], type: command, plugin: password, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command wpass/wordpassword/wordpass from password.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: wpass, aliases: ['wordpassword', 'wordpass'], type: command, plugin: password, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded event ctcp_version (EventType.other) from core_ctcp.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Event[types: [<EventType.other: 6>], type: event, plugin: core_ctcp, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded event ctcp_ping (EventType.other) from core_ctcp.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Event[types: [<EventType.other: 6>], type: event, plugin: core_ctcp, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded event ctcp_time (EventType.other) from core_ctcp.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Event[types: [<EventType.other: 6>], type: event, plugin: core_ctcp, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command kernel from linux.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: kernel, aliases: [], type: command, plugin: linux, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command down/offline/up from pagecheck.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: down, aliases: ['offline', 'up'], type: command, plugin: pagecheck, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command isup from pagecheck.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: isup, aliases: [], type: command, plugin: pagecheck, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command help from help.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: help, aliases: [], type: command, plugin: help, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command flushlog from log.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: flushlog, aliases: [], type: command, plugin: log, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded irc raw log_raw (*) from log.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Raw[triggers: ['*'], type: irc_raw, plugin: log, permissions: [], single_thread: True, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded irc raw log (*) from log.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Raw[triggers: ['*'], type: irc_raw, plugin: log, permissions: [], single_thread: True, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded irc raw console_log (*) from log.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Raw[triggers: ['*'], type: irc_raw, plugin: log, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command supperscript from utility.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: supperscript, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command wuote from utility.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: wuote, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command bnag from utility.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: bnag, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command bfe from utility.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: bfe, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command bagn from utility.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: bagn, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command ebf from utility.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: ebf, aliases: [], type: command, plugin: utility, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command ban from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: ban, aliases: [], type: command, plugin: admin_channel, permissions: ['op_ban', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command unban from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: unban, aliases: [], type: command, plugin: admin_channel, permissions: ['op_ban', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command quiet from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: quiet, aliases: [], type: command, plugin: admin_channel, permissions: ['op_quiet', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command unquiet from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: unquiet, aliases: [], type: command, plugin: admin_channel, permissions: ['op_quiet', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command voice from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: voice, aliases: [], type: command, plugin: admin_channel, permissions: ['op_voice', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command devoice from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: devoice, aliases: [], type: command, plugin: admin_channel, permissions: ['op_voice', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command op from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: op, aliases: [], type: command, plugin: admin_channel, permissions: ['op_op', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command deop from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: deop, aliases: [], type: command, plugin: admin_channel, permissions: ['op_op', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command topic from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: topic, aliases: [], type: command, plugin: admin_channel, permissions: ['op_topic', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command kick from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: kick, aliases: [], type: command, plugin: admin_channel, permissions: ['op_kick', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command remove from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: remove, aliases: [], type: command, plugin: admin_channel, permissions: ['op_rem', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command mute from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: mute, aliases: [], type: command, plugin: admin_channel, permissions: ['op_mute', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command unmute from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: unmute, aliases: [], type: command, plugin: admin_channel, permissions: ['op_mute', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command lock from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: lock, aliases: [], type: command, plugin: admin_channel, permissions: ['op_lock', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command unlock from admin_channel.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: unlock, aliases: [], type: command, plugin: admin_channel, permissions: ['op_lock', 'op'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Registering tables for remind
+[2018-05-02][10:44:11] [INFO] Loaded command roll/dice from gaming.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: roll, aliases: ['dice'], type: command, plugin: gaming, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command choose from gaming.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: choose, aliases: [], type: command, plugin: gaming, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command coin from gaming.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: coin, aliases: [], type: command, plugin: gaming, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded irc raw on_connect (004) from cap.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Raw[triggers: ['004'], type: irc_raw, plugin: cap, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][10:44:11] [INFO] Loaded irc raw on_cap (CAP) from cap.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Raw[triggers: ['CAP'], type: irc_raw, plugin: cap, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command ping from ping.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: ping, aliases: [], type: command, plugin: ping, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command note/todo/notes from notes.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: note, aliases: ['todo', 'notes'], type: command, plugin: notes, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command time from time_plugin.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: time, aliases: [], type: command, plugin: time_plugin, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command beats from time_plugin.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: beats, aliases: [], type: command, plugin: time_plugin, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command karma/k from karma.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: karma, aliases: ['k'], type: command, plugin: karma, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command loved from karma.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: loved, aliases: [], type: command, plugin: karma, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded regex karma_add from karma.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Regex[regexes: [^([a-z0-9_\-\[\]\^{}|`]{3,})(\+\+|\-\-)$], type: regex, plugin: karma, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command veganpotato from foods.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: veganpotato, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command vegansandwich from foods.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: vegansandwich, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command buddhabowl from foods.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: buddhabowl, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command vegantaco from foods.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: vegantaco, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command veganpizza from foods.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: veganpizza, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command sundae from foods.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: sundae, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command burger from foods.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: burger, aliases: [], type: command, plugin: foods, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command octopart/octo from octopart.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: octopart, aliases: ['octo'], type: command, plugin: octopart, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command locate/maps from locate.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: locate, aliases: ['maps'], type: command, plugin: locate, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command threaddump from profiling.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: threaddump, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command objtypes from profiling.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: objtypes, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command objgrowth from profiling.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: objgrowth, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command pymsummary from profiling.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: pymsummary, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command pymdiff from profiling.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: pymdiff, aliases: [], type: command, plugin: profiling, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command enableregex from regex_chans.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: enableregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command disableregex from regex_chans.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: disableregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command resetregex from regex_chans.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: resetregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command regexstatus from regex_chans.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: regexstatus, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command listregex from regex_chans.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: listregex, aliases: [], type: command, plugin: regex_chans, permissions: ['botcontrol'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded sieve sieve_regex from regex_chans.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Sieve[type: sieve, plugin: regex_chans, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command ignore from ignore.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: ignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command unignore from ignore.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: unignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command global_ignore from ignore.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: global_ignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded command global_unignore from ignore.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: global_unignore, aliases: [], type: command, plugin: ignore, permissions: ['ignore'], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded sieve ignore_sieve from ignore.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Sieve[type: sieve, plugin: ignore, permissions: [], single_thread: False, threaded: True]
+[2018-05-02][10:44:11] [INFO] Loaded periodic hook (30 seconds) check_reminders from remind.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Periodic[interval: [30], type: periodic, plugin: remind, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][10:44:11] [INFO] Loaded command remind/reminder from remind.py
+[2018-05-02][10:44:11] [DEBUG] Loaded Command[name: remind, aliases: ['reminder'], type: command, plugin: remind, permissions: [], single_thread: False, threaded: False]
+[2018-05-02][10:44:11] [INFO] [esper] Connecting
+[2018-05-02][10:44:11] [INFO] [esper] >> NICK :botbot_the
+[2018-05-02][10:44:11] [INFO] [esper] >> USER cloudbot 3 * :CloudBot - https://git.io/CloudBot
+[2018-05-02][10:44:11] [INFO] [esper:*] -weber.freenode.net- *** Looking up your hostname...
+[2018-05-02][10:44:11] [INFO] [esper:*] -weber.freenode.net- *** Checking Ident
+[2018-05-02][10:44:11] [INFO] [esper:*] -weber.freenode.net- *** Found your hostname
+[2018-05-02][10:44:19] [INFO] [esper:*] -weber.freenode.net- *** No Ident response
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 001 botbot_the :Welcome to the freenode Internet Relay Chat Network botbot_the
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 002 botbot_the :Your host is weber.freenode.net[162.213.39.42/6667], running version ircd-seven-1.1.5
+[2018-05-02][10:44:19] [INFO] [esper|misc] Bot is sending join commands for network.
+[2018-05-02][10:44:19] [INFO] [esper|misc] Bot is joining channels for network.
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 003 botbot_the :This server was created Wed Nov 15 2017 at 23:44:06 UTC
+[2018-05-02][10:44:19] [INFO] [esper|sieve] Bot is starting ratelimiter cleanup task.
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 004 botbot_the weber.freenode.net ircd-seven-1.1.5 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 005 botbot_the CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 005 botbot_the CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 005 botbot_the EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 251 botbot_the :There are 119 users and 94028 invisible on 34 servers
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 253 botbot_the 29 :unknown connection(s)
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 254 botbot_the 52881 :channels formed
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 255 botbot_the :I have 4900 clients and 1 servers
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 252 botbot_the 27 :IRC Operators online
+[2018-05-02][10:44:19] [INFO] [esper] >> JOIN #reddit-tennis-dev
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 265 botbot_the 4900 5989 :Current local users 4900, max 5989
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 266 botbot_the 94147 96965 :Current global users 94147, max 96965
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 250 botbot_the :Highest connection count: 5990 (5989 clients) (611969 connections received)
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 375 botbot_the :- weber.freenode.net Message of the Day - 
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- Welcome to weber.freenode.net in California, USA.
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- Thanks to https://www.cloudsigma.com/ for sponsoring
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- e-mail to complaints@freenode.net -- we will do our best to address the
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- situation within a reasonable period of time, and we may request further
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- information or, as appropriate, involve other parties such as channel operators 
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- Group Contacts representing an on-topic group.
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- this server!
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- done wargame design mainly for the StarFire tabletop
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- boardgame series, a job which later evolved into the novel,
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- 'Insurrection' (collaboration with Steve White, published
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- in 1990).
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- By connecting to freenode you indicate that you have read and
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- software communities since 1998.
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- WEBER, DAVID M. (1952-), an American fantasy and scifi
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- works span several genres, including alternate history,
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- epic fantasy, military scifi and space opera. He's also
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- Welcome to freenode - supporting the free and open source
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- please notify a volunteer staff member via private message, or send us an
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- freenode runs an open proxy scanner.
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- In the event that you observe behaviour that contravenes our policies,
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- If you are looking for assistance, you will be able to find a list of
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- do not miss them. Important messages relating to the freenode project, including
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- notices of upcoming maintenance and other scheduled downtime will be issued as
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- global notices.
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- can be found on the https://freenode.net website under "Group Registration".
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- author. Best known for his 'Honor Harrington' series, his
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- accept our policies and guidelines as set out on https://freenode.net
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- From time to time, volunteer staff may send server-wide notices relating to
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- the project, or the communities that we host. The majority of such notices
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- volunteer staff using the '/who freenode/staff/*' command, and you may
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- provides assistance via private message, and while we have a network
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- a member of the volunteer staff team.
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- channel the primary venue for support requests is via private message to
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- Representing an on-topic project? Don't forget to register, more information
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:19] [INFO] [esper] :weber.freenode.net 372 botbot_the :- message any of us at any time. Please note that freenode predominantly
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- freenode organises an annual conference, and we would like to extend our
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- Thank you also to our server sponsors for the sustained support in keeping the
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- network going for close to two decades.
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- you are interested in sponsoring this event, please send an e-mail to
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- sponsor@freenode.live
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :- Thank you for using freenode!
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 372 botbot_the :-  
+[2018-05-02][10:44:20] [INFO] [esper] :weber.freenode.net 376 botbot_the :End of /MOTD command.
+[2018-05-02][10:44:20] [INFO] [esper:botbot_the] -!- mode/botbot_the [:+i] by botbot_the
+[2018-05-02][10:44:20] [INFO] [esper:nickserv] -NickServ- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[2018-05-02][10:44:20] [INFO] [esper] >> JOIN #reddit-tennis-cooking
+[2018-05-02][10:44:20] [INFO] [esper] >> JOIN #reddit-tennis
+[2018-05-02][10:44:20] [INFO] [esper|misc] Bot has finished sending join commands for network.
+[2018-05-02][10:44:22] [INFO] [esper] >> CAP LS
+[2018-05-02][10:44:25] [INFO] [esper:#reddit-tennis-dev] -!- botbot_the [~cloudbot@96-83-120-66-static.hfc.comcastbusiness.net] has joined
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 332 botbot_the #reddit-tennis-dev :updated 2/27/2018 - Cloudbot: https://pastebin.com/BzTa8LKg
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 333 botbot_the #reddit-tennis-dev kingoftrex!~kingoftre@unaffiliated/kingoftrex 1519750910
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 353 botbot_the @ #reddit-tennis-dev :botbot_the kingoftrex stevejhgla thebogbog lowhope Vaanir ServeBot botlahoo
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 366 botbot_the #reddit-tennis-dev :End of /NAMES list.
+[2018-05-02][10:44:25] [INFO] [esper:#reddit-tennis-cooking] -!- botbot_the [~cloudbot@96-83-120-66-static.hfc.comcastbusiness.net] has joined
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 332 botbot_the #reddit-tennis-cooking :a starch extracted from cassava root; it is devoid of nutrition and low in food energy; in developed countries, it is used as a thickening agent in various manufactured foods
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 353 botbot_the = #reddit-tennis-cooking :botbot_the mcpro bananabanana stevejhgla thebogbog hoglahoo lowhope
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 333 botbot_the #reddit-tennis-cooking thebogbog!uid114333@gateway/web/irccloud.com/x-taoserfcczjggeyi 1523237416
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 366 botbot_the #reddit-tennis-cooking :End of /NAMES list.
+[2018-05-02][10:44:25] [INFO] [esper:#reddit-tennis] -!- botbot_the [~cloudbot@96-83-120-66-static.hfc.comcastbusiness.net] has joined
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 332 botbot_the #reddit-tennis :This week in tennis: WTA: Prague & Rabat (280s); ATP: Munich, Istanbul & Estoril (250s) | Commands: ?stream .help .discord .brackets .tennis
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 333 botbot_the #reddit-tennis blekginger!~Gunnar@unaffiliated/blekginger 1525087105
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 353 botbot_the = #reddit-tennis :botbot_the Tennys_dude mcpro Ash- +kingoftrex mefistofeles +stevejhgla jussylam bananabanana +thebogbog +merokoyui Ozzyboshi radiofree tefilein baraba JanC hoglahoo iclon ovah snee Cosmicjoker mcbot stonelore Ikoru theglass mayorga lowhope Abortion Silkroad areascontrol dagobert___ rajvasa [CAN] Ruhan justache Vaanir peaches m4rCsi_ TCapsYear @ServeBot skiff shodan45 Snuupy acidtech bayleaf botlahoo dihuteno_ Ald0 cottongin
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net 366 botbot_the #reddit-tennis :End of /NAMES list.
+[2018-05-02][10:44:25] [INFO] [esper] :weber.freenode.net CAP botbot_the LS :account-notify extended-join identify-msg multi-prefix sasl
+[2018-05-02][10:44:25] [INFO] [esper] >> CAP LIST
+[2018-05-02][10:44:26] [INFO] [esper] :weber.freenode.net CAP botbot_the LIST :
+[2018-05-02][10:44:26] [INFO] [esper] >> CAP REQ :multi-prefix extended-join account-notify
+[2018-05-02][10:44:26] [INFO] [esper] :weber.freenode.net CAP botbot_the ACK :multi-prefix extended-join account-notify 
+[2018-05-02][10:44:26] [INFO] [esper|CAP] Successfully negotiated for: {'multi-prefix', 'extended-join', 'account-notify'}
+[2018-05-02][10:44:26] [INFO] [esper] >> CAP END
+[2018-05-02][10:44:26] [INFO] [esper:chanserv] -ChanServ- [#reddit-tennis] Welcome to #reddit-tennis. Visit us on the Interwebs at http://tennis.reddit.com . This channel is usually most active during matches, so be sure to join us then!
+[2018-05-02][10:44:26] [INFO] [esper] :services. 328 botbot_the #reddit-tennis :http://tennis.reddit.com
+[2018-05-02][10:45:14] [INFO] [esper:#reddit-tennis] <kingoftrex> .tennis wta
+[2018-05-02][10:45:15] [INFO] [esper:#reddit-tennis] <ServeBot> (kingoftrex) WTA Rabat: Grand Prix De SAR La Princesse Lalla Meryem (Rabat, Morocco): | (Q)Paula Badosa vs. 03Polona Hercog: 3-3 | (Q)03Tamara Zidansek vs. (8)Su-Wei Hsieh: 7-6, 0-0 | (LL)Alexandra Dulgheru vs. (WC)Katarina Zavatska | Sara Errani d. Johanna Larsson: 6-3, 6-0 | Ajla Tomljanovic d. Kirsten Flipkens: 6-3, 6-2 | (7)Aleksandra Krunic d. Sara Sorribes: 6-3, 6-1 | Jana Fett d. (LL)Magdalena Frech: 6-2, 6-4 | (1)Elise 
+[2018-05-02][10:45:15] [INFO] [esper:#reddit-tennis] <ServeBot> WTA Prague: J&T Banka Prague Open (Prague, Czech Republic): | 03Kristyna Pliskova vs. Qiang Wang: 4-2 | (8)Katerina Siniakova d. Ekaterina Alexandrova: 6-4, 3-6, 6-3 | (2)Petra Kvitova d. Natalia Vikhlyantseva: 6-3, 6-1 | (7)Mihaela Buzarnescu d. (Q)Antonia Lottner: 6-0, 7-6 | Camila Giorgi d. (LL)Tamara Korpatsch: 6-4, 6-2 | (6)Shuai Zhang d. (Q)Gabriela Ruse: 6-4, 6-4 | Samantha Stosur d. Denisa Allertova: 6-4, 6-4 | (LL)Ja
+[2018-05-02][10:45:34] [INFO] [esper] -!- jussylam has quit (Quit: Page closed)
+[2018-05-02][10:45:42] [INFO] [esper:#reddit-tennis] <Tennys_dude> is that the same grand prix that dates back to the pre open era tennis?
+[2018-05-02][10:45:42] [INFO] [esper:#reddit-tennis-cooking] <thebogbog> .nanners
+[2018-05-02][10:45:42] [INFO] [esper] >> PRIVMSG #reddit-tennis-cooking :(thebogbog) https://imgur.com/a/j7ozhxT
+[2018-05-02][10:46:17] [INFO] [esper:#reddit-tennis] <Tennys_dude> might be post open era too
+[2018-05-02][10:46:30] [INFO] [esper:#reddit-tennis] <Tennys_dude> i thought the men's tour had a grand prix at some point
+[2018-05-02][10:46:40] [INFO] [esper:#reddit-tennis] <Tennys_dude> i wonder if it's related
+[2018-05-02][10:47:34] [INFO] [esper:#reddit-tennis-cooking] <bananabanana> ty
+[2018-05-02][10:49:13] [INFO] [esper:#reddit-tennis] <Tennys_dude> .yt R.E.M. losing my religion
+[2018-05-02][10:49:14] [INFO] [esper:#reddit-tennis] <ServeBot> (Tennys_dude) R.E.M. - Losing My Religion (Official Music Video) - length 4m 54s - 1,475,112 likes, 62,619 dislikes (95.9%) - 476,501,230 views - remhq on 2011.07.02 - http://youtu.be/xwtdhWltSIg
+[2018-05-02][10:53:47] [INFO] [esper:#reddit-tennis-cooking] <thebogbog> i am trying to set up vps today
+[2018-05-02][10:54:01] [INFO] [esper:#reddit-tennis-cooking] <thebogbog> i think i may be able to use my website host
+[2018-05-02][10:54:07] [INFO] [esper:#reddit-tennis-cooking] <thebogbog> and lump it in with my hosting fees
+[2018-05-02][10:54:11] [INFO] [esper:#reddit-tennis-cooking] <thebogbog> so that it can be a business expense
+[2018-05-02][10:54:12] [INFO] [esper:#reddit-tennis-cooking] <thebogbog> lol
+[2018-05-02][10:54:22] [INFO] [esper:#reddit-tennis-cooking] <thebogbog> technically my .recipe command does direct people to the website
+[2018-05-02][10:54:27] [INFO] [esper:#reddit-tennis-cooking] <thebogbog> so i think i have a case there
+[2018-05-02][10:57:40] [INFO] [esper:#reddit-tennis-cooking] <bananabanana> yay
+[2018-05-02][10:57:44] [INFO] [esper:#reddit-tennis-cooking] <bananabanana> \o/

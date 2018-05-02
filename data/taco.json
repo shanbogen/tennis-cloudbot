@@ -1,0 +1,58 @@
+{
+  "templates": [
+    "hands {user} a {quality} {type} taco filled with {meat} and topped with {topping}, {topping} and {topping}!"
+  ],
+  "parts": {
+    "type": [
+      "hard-shell",
+      "soft-shell",
+      ["crispy", 1],
+      ["puffy", 1]
+    ],
+    "quality": [
+      "spicy",
+      "mild",
+      "delicious",
+      ["boring", 1],
+      "perfect",
+      "confusing"
+    ],
+    "meat": [
+      "soy mince",
+      "crispy shredded yucca",
+      "house-smoked tofu",
+      "blackened cauliflower",
+      "beer-battered Brussels sprouts",
+      "BBQ black beans",
+      "fried green tomatoes",
+      "refried beans",
+      "roasted plantains",
+      ["tofu", 1]
+    ],
+    "topping": [
+      "guacamole",
+      "hot salsa",
+      "cashew cream",
+      "almond queso fresco",
+      "sunflower crema",
+      "lettuce",
+      "tomatoes",
+      "salsa verde",
+      "avocado",
+      "onion",
+      "scallions",
+      "jalapeños",
+      "capsicum",
+      "a pile of fresh coriander so large it obscures all of the taco contents",
+      "ghost chili",
+      "olives",
+      "pineapple",
+      "microgreens",
+      "chipotle sauce",
+      "cabbage",
+      "jicama slaw",
+      "mango salsa",
+      "ranch dressing"
+    ]
+  }
+}

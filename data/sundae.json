@@ -1,0 +1,85 @@
+{
+  "templates": [
+    "{gives} {user} {quality} scoop of {flavor} {base} topped with {topping}, {topping}, and {sauce}!",
+    "{gives} {user} two scoops of {flavor} {base} and {flavor} {base} topped with {topping} and {sauce}!",
+    "{gives} {user} {quality} scoop of {flavor} {base} topped with {topping} and finished with {sauce}!",
+    "{gives} {user} {quality} scoop of {flavor} {base} loaded with {topping}, {topping}, and {topping}."
+  ],
+  "parts": {
+    "gives": [
+      "hands",
+      "gives",
+      "makes",
+      "passes",
+      "gifts",
+      "bestows upon"
+    ],
+    "quality": [
+      "a tasty",
+      "a delicious",
+      "an awesome",
+      "an excellent",
+      "a beautifully-made",
+      "an exquisite",
+      "a nourishing",
+      "an edible",
+      "a creamy",
+      "a plant-powered",
+      "a sickeningly sweet",
+      "a poorly-conceived"
+    ],
+    "base": [
+      "cashewmilk ice cream",
+      "nice cream",
+      "almondmilk ice cream",
+      "coconut milk ice cream",
+      "soya ice cream",
+      "macadamia cream",
+      "frozen coconut yogurt",
+      "frozen oatgurt",
+      "avocado ice cream",
+      "brown rice milk frozen confection",
+      "sorbet",
+      "whatever the fuck dairy-free Halo Top is made of"
+    ],
+    "flavor": [
+      "chocolate",
+      "chocolate mint",
+      "vanilla bean",
+      "maple pecan",
+      "zesty lemon",
+      "coffee caramel fudge",
+      "strawberry",
+      "speculoos",
+      "rocky road",
+      "sweet corn",
+      "peach",
+      "chocolate peanut butter",
+      "pistachio"
+    ],
+    "topping": [
+      "burnt onion crumble",
+      "fresh strawberries",
+      "macerated blackberries",
+      "blueberries",
+      "toasted pecans",
+      "chocolate chips",
+      "cacao nibs",
+      "goji berries",
+      "crushed Oreos",
+      "sliced banana",
+      "carrot medley",
+      "graham crackers",
+      "fresh mango"
+    ],
+    "sauce":[
+      "dark chocolate fudge sauce",
+      "coconut caramel sauce",
+      "coconut whip",
+      "melted peppermint patties",
+      "mango coulis",
+      "peanut butter magic shell",
+      "raspberry jam"
+    ]
+  }
+}

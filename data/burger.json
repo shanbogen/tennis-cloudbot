@@ -1,0 +1,85 @@
+{
+  "templates": [
+    "{gives} {user} {flavor} {patty} burger on a {type} topped with {salad}, {salad} and {salad}!",
+    "{gives} {user} {flavor} double decker {patty} and {patty} burger on a {type} with {salad} and all the fixins!",
+    "{gives} {user} {flavor} {patty} burger on a {type} adorned with {salad}, {salad} and {salad}!",
+    "{gives} {user} {flavor} low-carb {patty} burger with no bun topped with {salad}, {salad} and {salad}!",
+    "{gives} {user} {flavor} {patty} burger on a {type} topped with {salad} and {salad}!",
+    "{gives} {user} {flavor} {patty} burger on a {type} overloaded with {salad}, {salad}, {salad} and {salad}!"
+  ],
+  "parts": {
+    "gives": [
+      "hands",
+      "gives",
+      "makes",
+      "passes",
+      "elects not to give to"
+    ],
+    "flavor": [
+      "a tasty",
+      "a delicious",
+      "an awesome",
+      "an excellent",
+      "a beautifully-made",
+      "an exquisite"
+    ],
+    "patty": [
+      "black bean",
+      "tofu",
+      "tempeh",
+      "portabella",
+      "chickpea",
+      "falafel",
+      "wild rice",
+      "cauliflower-walnut",
+      "sweet potato",
+      "lentil",
+      "carrot-lentil",
+      "Beyond",
+      "Impossible",
+      "quarter pound beet"
+    ],
+    "type": [
+      "pretzel bun",
+      "lettuce leaf",
+      "classic bun",
+      "potato bun",
+      "whole wheat bun",
+      "crumbly gluten-free bun",
+      "spelt roll"
+    ],
+    "salad": [
+      "tomatoes",
+      "lettuce",
+      "pickles",
+      "cucumbers",
+      "red onions",
+      "avocado",
+      "ketchup",
+      "mustard",
+      "Just Mayo",
+      "vegan chili",
+      "beer-battered onion rings",
+      "onion jam",
+      "BBQ sauce",
+      "Carolina BBQ sauce",
+      "sriracha",
+      "gochujang aioli",
+      "arugula",
+      "zucchini pepperoni",
+      "tempeh bacon",
+      "radicchio",
+      "charred scallion sauce",
+      "agave mustard",
+      "herbed almond cheese",
+      "salsa",
+      "cashew mozzarella",
+      "grilled onions",
+      "sauteed mushrooms",
+      "caramelized onions",
+      "watercress",
+      "truffle salt",
+      "tofu scramble"
+    ]
+  }
+}
