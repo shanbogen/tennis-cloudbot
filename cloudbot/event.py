@@ -10,7 +10,6 @@ logger = logging.getLogger("cloudbot")
 class EventType(enum.Enum):
     message = 0
     action = 1
-    # TODO: Do we actually want to have a 'notice' event type? Should the NOTICE command be a 'message' type?
     notice = 2
     join = 3
     part = 4
@@ -234,6 +233,12 @@ class Event:
                 raise ValueError("Target must be specified when chan is not assigned")
             target = self.chan
         self.conn.message(target, message)
+
+    def send(self, message):
+        """sends a raw irc message
+        :type message: str
+        """
+        self.conn.send(message)
 
     def reply(self, *messages, target=None):
         """sends a message to the current channel/user with a prefix

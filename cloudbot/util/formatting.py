@@ -249,6 +249,46 @@ def pluralize(num=0, text=''):
 # alternate form
 pluralise = pluralize
 
+def pluralize_suffix(num=0, text='', suffix='s'):
+    """
+    Takes a number and a string, and pluralizes that string using the number and combines the results.
+    :rtype: str
+    """
+    return pluralize_select(num, text, text + suffix)
+
+
+pluralise_suffix = pluralize_suffix
+
+
+def pluralize_select(count, single, plural):
+    return "{:,} {}".format(count, single if count == 1 else plural)
+
+
+pluralise_select = pluralize_select
+
+def pluralize_auto(count, thing):
+    if thing.endswith(('s', 'ss', 'sh', 'ch', 'x', 'z')):
+        return pluralize_suffix(count, thing, 'es')
+    elif thing.endswith(('f', 'fe')):
+        return pluralize_select(count, thing, thing.rsplit('f', 1)[0] + 'ves')
+    elif thing.endswith('y') and thing[-2:-1].lower() not in "aeiou":
+        return pluralize_select(count, thing, thing[:-1] + 'ies')
+    elif thing.endswith('y') and thing[-2:-1].lower() in "aeiou":
+        return pluralize_suffix(count, thing)
+    elif thing.endswith('o'):
+        return pluralize_suffix(count, thing, 'es')
+    elif thing.endswith('us'):
+        return pluralize_select(count, thing, thing[:-2] + 'i')
+    elif thing.endswith('is'):
+        return pluralize_select(count, thing, thing[:-2] + 'es')
+    elif thing.endswith('on'):
+        return pluralize_select(count, thing, thing[:-2] + 'a')
+    else:
+        return pluralize_suffix(count, thing)
+
+
+pluralise_auto = pluralize_auto
+
 
 def dict_format(args, formats):
     """

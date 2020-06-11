@@ -40,53 +40,6 @@ def load_key(bot):
     dev_key = bot.config.get("api_keys", {}).get("google_dev_key", None)
 
 
-@hook.command("time")
-def time_command(text):
-    """<location> -- Gets the current time in <location>."""
-    if not dev_key:
-        return "This command requires a Google Developers Console API key."
-
-    # Use the Geocoding API to get co-ordinates from the input
-    params = {"address": text, "key": dev_key}
-    if bias:
-        params['region'] = bias
-
-    json = requests.get(geocode_api, params=params).json()
-
-    error = check_status(json['status'], "geocoding")
-    if error:
-        return error
-
-    result = json['results'][0]
-
-    location_name = result['formatted_address']
-    location = result['geometry']['location']
-
-    # Now we have the co-ordinates, we use the Timezone API to get the timezone
-    formatted_location = "{lat},{lng}".format(**location)
-
-    epoch = time.time()
-
-    params = {"location": formatted_location, "timestamp": epoch, "key": dev_key}
-    json = requests.get(timezone_api, params=params).json()
-
-    error = check_status(json['status'], "timezone")
-    if error:
-        return error
-
-    # Work out the current time
-    offset = json['rawOffset'] + json['dstOffset']
-
-    # I'm telling the time module to parse the data as GMT, but whatever, it doesn't matter
-    # what the time module thinks the timezone is. I just need dumb time formatting here.
-    raw_time = time.gmtime(epoch + offset)
-    formatted_time = time.strftime('%I:%M %p, %A, %B %d, %Y', raw_time)
-
-    timezone = json['timeZoneName']
-
-    return "\x02{}\x02 - {} ({})".format(formatted_time, location_name, timezone)
-
-
 @hook.command(autohelp=False)
 def beats(text):
     """ -- Gets the current time in .beats (Swatch Internet Time). """

@@ -130,18 +130,35 @@ def buddhabowl(text, action):
 
 @asyncio.coroutine
 @hook.command
-def vegantaco(text, action):
+def vegantaco(text, action, chan):
     """<user> - give a taco to <user>"""
     user = text.strip()
 
     if not is_valid(user):
         return "I can't give a taco to that user."
 
-    generator = textgen.TextGenerator(taco_data["templates"], taco_data["parts"],
-                                      variables={"user": user})
-
+    generator = create_vegan_taco(text, user)
     # act out the message
     action(generator.generate_string())
+
+def create_vegan_taco(text, user):
+    return textgen.TextGenerator(taco_data["templates"], taco_data["parts"],
+                                      variables={"user": user})
+
+@asyncio.coroutine
+@hook.command
+def tacosalad(text, action, message):
+    """<user> - give a taco to <user>"""
+    user = text.strip()
+
+    if not is_valid(user):
+        return "I can't give a taco to that user."
+
+    generator = create_vegan_taco(text, user)
+    # act out the message
+    action(generator.generate_string())
+    message("Hmm, actually you're looking a little chubby.")
+    action("removes " + user + "'s taco shell and sprinkles some lettuce.")
 
 @asyncio.coroutine
 @hook.command
@@ -175,8 +192,8 @@ def sundae(text, action):
     action(generator.generate_string())
 
 @asyncio.coroutine
-@hook.command
-def burger(text, action):
+@hook.command('veggieburger', 'veganburger')
+def veggieburger(text, action):
     """<user> - give a burger to <user>"""
     user = text.strip()
 

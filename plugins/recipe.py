@@ -60,16 +60,16 @@ def get_data(url):
         raise ParseError(e)
 
     result = bs4.BeautifulSoup(request.text, 'html.parser')
-    result = result.find('div', {'class': 'wprm-recipe-container'}).find('script', {'type': 'application/ld+json'})
-    result = json.loads(result.text)
-    recipe_name = result['name']
-    recipe_description = result['description']
+    recipe_name = result.find('h2', {'class': 'wprm-recipe-name'}).text
+    recipe_description = result.find('div', {'class': 'wprm-recipe-summary'}).text
+    print(recipe_name)
+    print(recipe_description)
     return recipe_name, recipe_description
     raise ParseError("No recipe data found")
 
 
 @hook.command(autohelp=False)
-def recipe(text):
+def recipe(text, chan, message):
     """[term] - gets a recipe for [term], or gets a random recipe if no term is specified"""
     if text:
         # get the recipe URL by searching
@@ -106,6 +106,7 @@ def recipe(text):
         url = request.url
 
     # use get_data() to get the recipe info from the URL
+    print(url)
     try:
         recipe_name, recipe_description = get_data(url)
     except (ParseError, AttributeError) as e:
@@ -113,8 +114,8 @@ def recipe(text):
                                                               'A crispy roasted piece of bullshit')
 
     name = recipe_name.strip()
-    return (random.choice(PHRASES) + ' - {} - {}').format(recipe_name, web.try_shorten(url), recipe_description)
-
+    final_result = (random.choice(PHRASES) + ' - {} - {}').format(recipe_name, web.try_shorten(url), recipe_description)
+    message(final_result, chan)
 
 # inspired by http://whatthefuckshouldimakefordinner.com/ <3
 @hook.command("dinner", "wtfsimfd", autohelp=False)

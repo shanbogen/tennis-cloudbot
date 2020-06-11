@@ -9,20 +9,21 @@
                 "ignore_cert": true,
                 "password": ""
             },
-            "nick": "botbot_the",
-            "user": "cloudbot",
-            "avoid_notices": false,
+            "nick": "boo_bot",
+            "user": "botbot_the",
+            "avoid_notices": true,
             "channels": [
                 "#reddit-tennis-dev",
                 "#reddit-tennis-cooking",
-                "#reddit-tennis"
+                "#reddit-tennis",
+                "#reddit-tennis-hitler"
             ],
             "disabled_commands": [],
             "acls": {},
             "nickserv": {
-                "enabled": false,
+                "enabled": true,
                 "nickserv_password": "MyDell29",
-                "nickserv_user": "thebogbog",
+                "nickserv_user": "botbot_the",
                 "nickserv_name": "nickserv",
                 "nickserv_command": "IDENTIFY"
             },

@@ -42,9 +42,26 @@ COLORS = collections.OrderedDict([
     ('maroon', '\x0305')
 ])
 
+GENDERS = {'kingoftrex': 'him',
+           'stevejhgla': 'him',
+           'thebogbog': 'her',
+           'Abortion': 'him',
+           'charlotte2785': 'her',
+           'merokoyui': 'her',
+           'hoglahoo': 'him',
+           'botlahoo': 'it',
+           'ServeBot': 'it',
+           'bananabanana': 'her',
+           'mcpro': 'him',
+           'Frosty': 'him',
+           'blekginger': 'him',
+           'lowhope': 'him',
+           'reblochon': 'her'}
+
 # helper functions
 
 strip_re = re.compile("(\x03|\x02|\x1f|\x0f)(?:,?\d{1,2}(?:,\d{1,2})?)?")
+nick_re = re.compile("^[A-Za-z0-9_|.\-\]\[\{\}]*$", re.I)
 
 
 def strip(string):
@@ -57,10 +74,18 @@ def translate(text, dic):
     return text
 
 
+def is_valid(target):
+    """ Checks if a string is a valid IRC nick. """
+    if nick_re.match(target):
+        return True
+    else:
+        return False
+
+
 # colors
 @hook.command
-def supperscript(text):
-    return "Mmm, delicious " + text + " for supper!"
+def supperscript(text, message, chan):
+    message("Mmm, delicious " + text + " for supper!", chan)
 
 @hook.command
 def wuote(text):
@@ -71,13 +96,46 @@ def bnag(text):
     return "WTF?! Who are you, Dick Cheney with all of his fingers missing?"
 
 @hook.command()
-def bfe(text):
-    return "Well this is awkward, the duck doesn't want to be seen in public with someone who can't spell."
+def bfe(text, chan, nick, message):
+    message("Well this is awkward " + nick +
+            ", the duck doesn't want to be seen in public with someone who can't spell.",
+            chan)
 
 @hook.command()
-def bagn(text):
-    return "Your brain jammed! You can try again whenever you get your life together."
+def bagn(text, chan, nick, message):
+    message("Your brain jammed! You can try again whenever you get your life together. The world is watching, " +
+            nick + ".", chan)
 
 @hook.command()
 def ebf(text):
     return "The duck didn't want to be friends. You should try someone more in your league."
+
+@hook.command()
+def gentleban(text, chan, message, action):
+
+    if text == "":
+        message("That's such a polite way of doing that! Thanks :)", chan)
+        return
+
+    user = text.strip()
+    if not is_valid(user):
+        message("I tried my best, but I can't ban that user :(", chan)
+        return
+
+    if user == "boo_bot":
+        message("I look forward to the day when I can ban myself.", chan)
+        if random.choice([True, False, False]):
+            message("s/ban/bang", chan)
+        return
+
+    if user == "Frosty":
+        action(
+            "opens the door, waits patiently for Frosty to leave, whispers 'you go, girl!', and gently closes the door behind him.")
+        return
+
+    try:
+        pronoun = GENDERS[user]
+    except KeyError:
+        pronoun = 'him/her'
+
+    action("opens the door, waits patiently for " + user + " to leave, and gently closes the door behind " + pronoun + ".")

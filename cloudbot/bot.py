@@ -257,7 +257,7 @@ class CloudBot:
                 else:
                     potential_matches = []
                     for potential_match, plugin in self.plugin_manager.commands.items():
-                        if potential_match.startswith(command):
+                        if potential_match == command:
                             potential_matches.append((potential_match, plugin))
                     if potential_matches:
                         if len(potential_matches) == 1:
